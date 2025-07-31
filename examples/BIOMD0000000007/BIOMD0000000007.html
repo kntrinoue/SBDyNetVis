@@ -1,0 +1,48 @@
+<!--2025-06-04 10:21:12-->
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Dynamic Network Visualization</title>
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.31.0/cytoscape.min.js"></script>
+ <script src="https://unpkg.com/webcola/WebCola/cola.min.js"></script>
+ <script src="https://unpkg.com/layout-base/layout-base.js"></script>
+ <script src="https://unpkg.com/cose-base/cose-base.js"></script>
+ <script src="https://unpkg.com/dagre@0.7.4/dist/dagre.js"></script>
+ <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+ <style>
+  #cy {position: absolute; width: 100%; height: 100%; top: 0; left: 0; z-index: 0;}
+  #container {display: flex; flex-wrap: wrap; position: absolute; width: 100%; top: 0; left: 0; padding: 10px; overflow: hidden;}
+  #menutoggle { z-index: 2; }
+  #control { z-index: 2; }
+  .item{ background-color: #e0ffff; border: solid 1px; vertical-align: middle; padding: 5px; }
+  #progress { width: 50vw; }
+  #popup{position: absolute;}
+ </style>
+</head>
+<body>
+ <div id="container">
+  <div id="menutoggle" class="item"> 
+   <button id="btn_menu">Hide</button> <br>
+   <button id="btn_play">Play</button>
+  </div>
+	
+  <div id="control" class="item">
+    Layout <select name="cy_layout" id="cy_layout"></select>,
+    Eq. <input type="checkbox" name="cy_edgeLabel" id="cy_edgeLabel">,
+    Rel. <input type="checkbox" name="timeRelVal" id="timeRelVal">,
+    Color Pallet <select name="colmaps" id="colmaps"></select>:
+    low[<span id="t0">0</span><span id="t1">1</span><span id="t2">2</span><span id="t3">3</span><span id="t4">4</span><span id="t5">5</span><span id="t6">6</span><span id="t7">7</span><span id="t8">8</span><span id="t9">9</span>]high,
+    <button id="btn_save">Save layout</button><br>
+    Time: <time id="playback_position">0.00</time>
+    <input type="range" id="progress" value="0" min="0" step="any">
+    <time id="end_position">100.0</time>
+  </div>
+ </div>
+
+ <div id="cy"></div>
+ <div id="popup"><canvas id="chart"></canvas><div>
+ <script src="timecourse.js"></script>
+ <script src="diagram.js"></script>
+ <script src="code.js"></script>
+</body>
+</html>

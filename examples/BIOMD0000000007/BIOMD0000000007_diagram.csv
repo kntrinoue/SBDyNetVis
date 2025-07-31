@@ -1,0 +1,57 @@
+tcID,reactant,product,type,label
+(Cdc13_Cdc2 creation).Flux,Cdc13_Cdc2_src,Cdc13_Cdc2,->,k/C
+(Cig2_Cdc2 creation).Flux,Cig2_Cdc2_src,Cig2_Cdc2,->,k/C
+(Cdc2 phosphorylation).Flux,Cdc13_Cdc2,Cdc2 phosphorylation_mod,->,(C*C*k-k*(C*C))/C
+(Cdc2 phosphorylation).Flux,Cdc2 phosphorylation_mod,Cdc13_P-Cdc2,->,(C*C*k-k*(C*C))/C
+Wee1,Wee1,Cdc2 phosphorylation_mod,-o,(C*C*k-k*(C*C))/C
+Cdc25,Cdc25,Cdc2 phosphorylation_mod,-o,(C*C*k-k*(C*C))/C
+(binding of Rum1 with Cdc13_Cdc2).Flux,Cdc13_Cdc2,binding of Rum1 with Cdc13_Cdc2_mod,->,(C*C*k*(F*C)-C*C*kr)/C
+(binding of Rum1 with Cdc13_Cdc2).Flux,FreeRum1,binding of Rum1 with Cdc13_Cdc2_mod,->,(C*C*k*(F*C)-C*C*kr)/C
+(binding of Rum1 with Cdc13_Cdc2).Flux,binding of Rum1 with Cdc13_Cdc2_mod,Cdc13_Cdc2_Rum1,->,(C*C*k*(F*C)-C*C*kr)/C
+(binding of Rum1 with Cdc13_P-Cdc2).Flux,Cdc13_P-Cdc2,binding of Rum1 with Cdc13_P-Cdc2_mod,->,(k*(C*C)*(F*C)-kr*(CF*C))/C
+(binding of Rum1 with Cdc13_P-Cdc2).Flux,FreeRum1,binding of Rum1 with Cdc13_P-Cdc2_mod,->,(k*(C*C)*(F*C)-kr*(CF*C))/C
+(binding of Rum1 with Cdc13_P-Cdc2).Flux,binding of Rum1 with Cdc13_P-Cdc2_mod,Cdc13_P-Cdc2_Rum1,->,(k*(C*C)*(F*C)-kr*(CF*C))/C
+(Rum1 degradation in Rum1_Cdc13_Cdc2).Flux,Cdc13_Cdc2_Rum1,Cdc13_Cdc2,->,k*C
+(Rum1 degradation in solution).Flux,FreeRum1,FreeRum1_deg,->,k*F
+(Rum1 degradation in Rum1_Cdc13_P-Cdc2).Flux,Cdc13_P-Cdc2_Rum1,Cdc13_P-Cdc2,->,k*C
+(Rum1 degradation in Rum1_Cig2_Cdc2).Flux,Cig2_Cdc2_Rum1,Cig2_Cdc2,->,k*C
+(Cdc13 degradation in Cdc13_Cdc2).Flux,Cdc13_Cdc2,Cdc13 degradation in Cdc13_Cdc2_mod,->,k*C
+(Cdc13 degradation in Cdc13_Cdc2).Flux,Cdc13 degradation in Cdc13_Cdc2_mod,Cdc13_Cdc2_deg,->,k*C
+ubiquitinProtease1,ubiquitinProtease1,Cdc13 degradation in Cdc13_Cdc2_mod,-o,k*C
+(Cdc13 degradation in Cdc13_P-Cdc2).Flux,Cdc13_P-Cdc2,Cdc13 degradation in Cdc13_P-Cdc2_mod,->,k*C
+(Cdc13 degradation in Cdc13_P-Cdc2).Flux,Cdc13 degradation in Cdc13_P-Cdc2_mod,Cdc13_P-Cdc2_deg,->,k*C
+ubiquitinProtease1,ubiquitinProtease1,Cdc13 degradation in Cdc13_P-Cdc2_mod,-o,k*C
+(Cig2 degradation in Cig2_Cdc2).Flux,Cig2_Cdc2,Cig2 degradation in Cig2_Cdc2_mod,->,k*C
+(Cig2 degradation in Cig2_Cdc2).Flux,Cig2 degradation in Cig2_Cdc2_mod,Cig2_Cdc2_deg,->,k*C
+ubiquitinProtease2,ubiquitinProtease2,Cig2 degradation in Cig2_Cdc2_mod,-o,k*C
+(Cdc13 degradation in Rum1_Cdc13_P-Cdc2).Flux,Cdc13_P-Cdc2_Rum1,FreeRum1,->,k*C
+(Cdc13 degradation in Rum1_Cdc13_Cdc2).Flux,Cdc13_Cdc2_Rum1,FreeRum1,->,k*C
+(Cig2 degradation in Rum1_Cig2_Cdc2).Flux,Cig2_Cdc2_Rum1,FreeRum1,->,k*C
+(Binding of Rum1 to Cig2_Cdc2).Flux,Cig2_Cdc2,Binding of Rum1 to Cig2_Cdc2_mod,->,(C*C*k*(F*C)-C*C*kr)/C
+(Binding of Rum1 to Cig2_Cdc2).Flux,FreeRum1,Binding of Rum1 to Cig2_Cdc2_mod,->,(C*C*k*(F*C)-C*C*kr)/C
+(Binding of Rum1 to Cig2_Cdc2).Flux,Binding of Rum1 to Cig2_Cdc2_mod,Cig2_Cdc2_Rum1,->,(C*C*k*(F*C)-C*C*kr)/C
+(UbE mediated degradation of Cdc13_Cdc2 in Rum1_Cdc13_Cdc2).Flux,Cdc13_Cdc2_Rum1,UbE mediated degradation of Cdc13_Cdc2 in Rum1_Cdc13_Cdc2_mod,->,k*C
+(UbE mediated degradation of Cdc13_Cdc2 in Rum1_Cdc13_Cdc2).Flux,UbE mediated degradation of Cdc13_Cdc2 in Rum1_Cdc13_Cdc2_mod,FreeRum1,->,k*C
+ubiquitinProtease1,ubiquitinProtease1,UbE mediated degradation of Cdc13_Cdc2 in Rum1_Cdc13_Cdc2_mod,-o,k*C
+(UbE mediated degradation of Cdc13_Cdc2 in Rum1_Cdc13_P-Cdc2).Flux,Cdc13_P-Cdc2_Rum1,UbE mediated degradation of Cdc13_Cdc2 in Rum1_Cdc13_P-Cdc2_mod,->,k*C
+(UbE mediated degradation of Cdc13_Cdc2 in Rum1_Cdc13_P-Cdc2).Flux,UbE mediated degradation of Cdc13_Cdc2 in Rum1_Cdc13_P-Cdc2_mod,FreeRum1,->,k*C
+ubiquitinProtease1,ubiquitinProtease1,UbE mediated degradation of Cdc13_Cdc2 in Rum1_Cdc13_P-Cdc2_mod,-o,k*C
+(Rum1 creation).Flux,FreeRum1_src,FreeRum1,->,k/C
+(Rum1 degradation by SPF).Flux,FreeRum1,Rum1 degradation by SPF_mod,->,k*M*F*(S*C)/(K+F*C)
+(Rum1 degradation by SPF).Flux,Rum1 degradation by SPF_mod,FreeRum1_deg,->,k*M*F*(S*C)/(K+F*C)
+S-phasePromotingFactor,S-phasePromotingFactor,Rum1 degradation by SPF_mod,-o,k*M*F*(S*C)/(K+F*C)
+(IE production & degradation).Flux,BoundIntermediaryEnzyme,IE production & degradation_mod,->,(IB*C*k*(M*C)/(IB*C+K)-I*C*kr/(I*C+Kr))/C
+(IE production & degradation).Flux,IE production & degradation_mod,IntermediaryEnzyme,->,(IB*C*k*(M*C)/(IB*C+K)-I*C*kr/(I*C+Kr))/C
+M-phasePromotingFactor,M-phasePromotingFactor,IE production & degradation_mod,-o,(IB*C*k*(M*C)/(IB*C+K)-I*C*kr/(I*C+Kr))/C
+(UbE production & degradation).Flux,BoundUbiquitinProtease1,UbE production & degradation_mod,->,(I*C*k*(uB*C)/(K+uB*C)-kr*(u*C)/(Kr+u*C))/C
+(UbE production & degradation).Flux,UbE production & degradation_mod,ubiquitinProtease1,->,(I*C*k*(uB*C)/(K+uB*C)-kr*(u*C)/(Kr+u*C))/C
+IntermediaryEnzyme,IntermediaryEnzyme,UbE production & degradation_mod,-o,(I*C*k*(uB*C)/(K+uB*C)-kr*(u*C)/(Kr+u*C))/C
+(UbE2 production & degradation).Flux,BoundUbiquitinProtease2,UbE2 production & degradation_mod,->,(k*(M*C)*(uB*C)/(K+uB*C)-k*(u*C)/(K+u*C))/C
+(UbE2 production & degradation).Flux,UbE2 production & degradation_mod,ubiquitinProtease2,->,(k*(M*C)*(uB*C)/(K+uB*C)-k*(u*C)/(K+u*C))/C
+M-phasePromotingFactor,M-phasePromotingFactor,UbE2 production & degradation_mod,-o,(k*(M*C)*(uB*C)/(K+uB*C)-k*(u*C)/(K+u*C))/C
+(Wee1 production & degradation).Flux,BoundWee1,Wee1 production & degradation_mod,->,(kr*(WB*C)/(Kr+WB*C)-k*(M*C)*(W*C)/(K+W*C))/C
+(Wee1 production & degradation).Flux,Wee1 production & degradation_mod,Wee1,->,(kr*(WB*C)/(Kr+WB*C)-k*(M*C)*(W*C)/(K+W*C))/C
+M-phasePromotingFactor,M-phasePromotingFactor,Wee1 production & degradation_mod,-o,(kr*(WB*C)/(Kr+WB*C)-k*(M*C)*(W*C)/(K+W*C))/C
+(Cdc25 production & degradation).Flux,BoundCdc25,Cdc25 production & degradation_mod,->,(CB*C*k*(M*C)/(CB*C+K)-C*C*kr/(C*C+Kr))/C
+(Cdc25 production & degradation).Flux,Cdc25 production & degradation_mod,Cdc25,->,(CB*C*k*(M*C)/(CB*C+K)-C*C*kr/(C*C+Kr))/C
+M-phasePromotingFactor,M-phasePromotingFactor,Cdc25 production & degradation_mod,-o,(CB*C*k*(M*C)/(CB*C+K)-C*C*kr/(C*C+Kr))/C

@@ -1,0 +1,3654 @@
+[
+  {
+    "id": "BIOMD0000000001",
+    "name": "Edelstein1996 - EPSP ACh event"
+  },
+  {
+    "id": "BIOMD0000000002",
+    "name": "Edelstein1996 - EPSP ACh species"
+  },
+  {
+    "id": "BIOMD0000000003",
+    "name": "Goldbeter1991 - Min Mit Oscil"
+  },
+  {
+    "id": "BIOMD0000000004",
+    "name": "Goldbeter1991 - Min Mit Oscil, Expl Inact"
+  },
+  {
+    "id": "BIOMD0000000005",
+    "name": "Tyson1991 - Cell Cycle 6 var"
+  },
+  {
+    "id": "BIOMD0000000006",
+    "name": "Tyson1991 - Cell Cycle 2 var"
+  },
+  {
+    "id": "BIOMD0000000007",
+    "name": "Novak1997 - Cell Cycle"
+  },
+  {
+    "id": "BIOMD0000000008",
+    "name": "Gardner1998 - Cell Cycle Goldbeter"
+  },
+  {
+    "id": "BIOMD0000000009",
+    "name": "Huang1996 - Ultrasensitivity in MAPK cascade"
+  },
+  {
+    "id": "BIOMD0000000010",
+    "name": "Kholodenko2000 - Ultrasensitivity and negative feedback bring oscillations in MAPK cascade"
+  },
+  {
+    "id": "BIOMD0000000011",
+    "name": "Levchenko2000_MAPK_noScaffold"
+  },
+  {
+    "id": "BIOMD0000000012",
+    "name": "Elowitz2000 - Repressilator"
+  },
+  {
+    "id": "BIOMD0000000013",
+    "name": "Poolman2004_CalvinCycle"
+  },
+  {
+    "id": "BIOMD0000000014",
+    "name": "Levchenko2000_MAPK_Scaffold"
+  },
+  {
+    "id": "BIOMD0000000015",
+    "name": "Curto1998 - purine metabolism"
+  },
+  {
+    "id": "BIOMD0000000016",
+    "name": "Goldbeter1995_CircClock"
+  },
+  {
+    "id": "BIOMD0000000017",
+    "name": "Hoefnagel2002_PyruvateBranches"
+  },
+  {
+    "id": "BIOMD0000000018",
+    "name": "Morrison1989 - Folate Cycle"
+  },
+  {
+    "id": "BIOMD0000000019",
+    "name": "Schoeberl2002 - EGF MAPK"
+  },
+  {
+    "id": "BIOMD0000000021",
+    "name": "Leloup1999_CircClock"
+  },
+  {
+    "id": "BIOMD0000000022",
+    "name": "Ueda2001_CircClock"
+  },
+  {
+    "id": "BIOMD0000000023",
+    "name": "Rohwer2001_Sucrose"
+  },
+  {
+    "id": "BIOMD0000000024",
+    "name": "Scheper1999_CircClock"
+  },
+  {
+    "id": "BIOMD0000000025",
+    "name": "Smolen2002_CircClock"
+  },
+  {
+    "id": "BIOMD0000000026",
+    "name": "Markevich2004_MAPK_orderedElementary"
+  },
+  {
+    "id": "BIOMD0000000027",
+    "name": "Markevich2004 - MAPK double phosphorylation,  ordered Michaelis-Menton"
+  },
+  {
+    "id": "BIOMD0000000028",
+    "name": "Markevich2004_MAPK_phosphoRandomElementary"
+  },
+  {
+    "id": "BIOMD0000000029",
+    "name": "Markevich2004_MAPK_phosphoRandomMM"
+  },
+  {
+    "id": "BIOMD0000000030",
+    "name": "Markevich2004_MAPK_AllRandomElementary"
+  },
+  {
+    "id": "BIOMD0000000031",
+    "name": "Markevich2004_MAPK_orderedMM2kinases"
+  },
+  {
+    "id": "BIOMD0000000032",
+    "name": "Kofahl2004_PheromonePathway"
+  },
+  {
+    "id": "BIOMD0000000033",
+    "name": "Brown2004 - NGF and EGF signaling"
+  },
+  {
+    "id": "BIOMD0000000034",
+    "name": "Smolen2004_CircClock"
+  },
+  {
+    "id": "BIOMD0000000035",
+    "name": "Vilar2002_Oscillator"
+  },
+  {
+    "id": "BIOMD0000000036",
+    "name": "Tyson1999_CircClock"
+  },
+  {
+    "id": "BIOMD0000000037",
+    "name": "Marwan2003 - Genetics, regulatory hierarchy between genes"
+  },
+  {
+    "id": "BIOMD0000000038",
+    "name": "Rohwer2000_Phosphotransferase_System"
+  },
+  {
+    "id": "BIOMD0000000039",
+    "name": "Marhl2000_CaOscillations"
+  },
+  {
+    "id": "BIOMD0000000040",
+    "name": "Field1974_Oregonator"
+  },
+  {
+    "id": "BIOMD0000000041",
+    "name": "Kongas2007 - Creatine Kinase in energy metabolic signaling in muscle"
+  },
+  {
+    "id": "BIOMD0000000042",
+    "name": "Nielsen1998_Glycolysis"
+  },
+  {
+    "id": "BIOMD0000000043",
+    "name": "Borghans1997 - Calcium Oscillation - Model 1"
+  },
+  {
+    "id": "BIOMD0000000044",
+    "name": "Borghans1997 - Calcium Oscillation - Model 2"
+  },
+  {
+    "id": "BIOMD0000000045",
+    "name": "Borghans1997 - Calcium Oscillation - Model 3"
+  },
+  {
+    "id": "BIOMD0000000046",
+    "name": "Olsen2003_peroxidase"
+  },
+  {
+    "id": "BIOMD0000000047",
+    "name": "Oxhamre2005_Ca_oscillation"
+  },
+  {
+    "id": "BIOMD0000000048",
+    "name": "Kholodenko1999 - EGFR signaling"
+  },
+  {
+    "id": "BIOMD0000000049",
+    "name": "Sasagawa2005_MAPK"
+  },
+  {
+    "id": "BIOMD0000000050",
+    "name": "Martins2003_AmadoriDegradation"
+  },
+  {
+    "id": "BIOMD0000000051",
+    "name": "Chassagnole2002_Carbon_Metabolism"
+  },
+  {
+    "id": "BIOMD0000000052",
+    "name": "Brands2002 - Monosaccharide-casein systems"
+  },
+  {
+    "id": "BIOMD0000000053",
+    "name": "Ferreira2003_CML_generation2"
+  },
+  {
+    "id": "BIOMD0000000054",
+    "name": "Ataullahkhanov1996_Adenylate"
+  },
+  {
+    "id": "BIOMD0000000055",
+    "name": "Locke2005 - Circadian Clock"
+  },
+  {
+    "id": "BIOMD0000000056",
+    "name": "Chen2004 - Cell Cycle Regulation"
+  },
+  {
+    "id": "BIOMD0000000057",
+    "name": "Sneyd2002_IP3_Receptor"
+  },
+  {
+    "id": "BIOMD0000000058",
+    "name": "Bindschadler2001_coupled_Ca_oscillators"
+  },
+  {
+    "id": "BIOMD0000000059",
+    "name": "Fridlyand2003_Calcium_flux"
+  },
+  {
+    "id": "BIOMD0000000060",
+    "name": "Keizer1996_Ryanodine_receptor_adaptation"
+  },
+  {
+    "id": "BIOMD0000000061",
+    "name": "Hynne2001_Glycolysis"
+  },
+  {
+    "id": "BIOMD0000000062",
+    "name": "Bhartiya2003_Tryptophan_operon"
+  },
+  {
+    "id": "BIOMD0000000063",
+    "name": "Galazzo1990_FermentationPathwayKinetics"
+  },
+  {
+    "id": "BIOMD0000000064",
+    "name": "Teusink2000_Glycolysis"
+  },
+  {
+    "id": "BIOMD0000000065",
+    "name": "Yildirim2003_Lac_Operon"
+  },
+  {
+    "id": "BIOMD0000000066",
+    "name": "Chassagnole2001_Threonine Synthesis"
+  },
+  {
+    "id": "BIOMD0000000067",
+    "name": "Fung2005_Metabolic_Oscillator"
+  },
+  {
+    "id": "BIOMD0000000068",
+    "name": "Curien2003_MetThr_synthesis"
+  },
+  {
+    "id": "BIOMD0000000069",
+    "name": "Fuss2006_MitoticActivation"
+  },
+  {
+    "id": "BIOMD0000000070",
+    "name": "Holzhutter2004_Erythrocyte_Metabolism"
+  },
+  {
+    "id": "BIOMD0000000071",
+    "name": "Bakker2001_Glycolysis"
+  },
+  {
+    "id": "BIOMD0000000072",
+    "name": "Yi2003_GproteinCycle"
+  },
+  {
+    "id": "BIOMD0000000073",
+    "name": "Leloup2003_CircClock_DD"
+  },
+  {
+    "id": "BIOMD0000000074",
+    "name": "Leloup2003_CircClock_DD_REV-ERBalpha"
+  },
+  {
+    "id": "BIOMD0000000075",
+    "name": "Xu2003 - Phosphoinositide turnover"
+  },
+  {
+    "id": "BIOMD0000000076",
+    "name": "Cronwright2002_Glycerol_Synthesis"
+  },
+  {
+    "id": "BIOMD0000000077",
+    "name": "Blum2000_LHsecretion_1"
+  },
+  {
+    "id": "BIOMD0000000078",
+    "name": "Leloup2003_CircClock_LD"
+  },
+  {
+    "id": "BIOMD0000000079",
+    "name": "Goldbeter2006_weightCycling"
+  },
+  {
+    "id": "BIOMD0000000080",
+    "name": "Thomsen1989_AdenylateCyclase"
+  },
+  {
+    "id": "BIOMD0000000081",
+    "name": "Suh2004_KCNQ_Regulation"
+  },
+  {
+    "id": "BIOMD0000000082",
+    "name": "Thomsen1988_AdenylateCyclase_Inhibition"
+  },
+  {
+    "id": "BIOMD0000000083",
+    "name": "Leloup2003_CircClock_LD_REV-ERBalpha"
+  },
+  {
+    "id": "BIOMD0000000084",
+    "name": "Hornberg2005_ERKcascade"
+  },
+  {
+    "id": "BIOMD0000000085",
+    "name": "Maurya2005_GTPaseCycle_reducedOrder"
+  },
+  {
+    "id": "BIOMD0000000086",
+    "name": "Bornheimer2004_GTPaseCycle"
+  },
+  {
+    "id": "BIOMD0000000087",
+    "name": "Proctor2006_telomere"
+  },
+  {
+    "id": "BIOMD0000000088",
+    "name": "Maeda2006_MyosinPhosphorylation"
+  },
+  {
+    "id": "BIOMD0000000089",
+    "name": "Locke2006_CircClock_LL"
+  },
+  {
+    "id": "BIOMD0000000090",
+    "name": "Wolf2001_Respiratory_Oscillations"
+  },
+  {
+    "id": "BIOMD0000000091",
+    "name": "Proctor2005 - Actions of chaperones and their role in ageing"
+  },
+  {
+    "id": "BIOMD0000000092",
+    "name": "Fuentes2005_ZymogenActivation"
+  },
+  {
+    "id": "BIOMD0000000093",
+    "name": "Yamada2003_JAK_STAT_pathway"
+  },
+  {
+    "id": "BIOMD0000000094",
+    "name": "Yamada2003_JAK_STAT_SOCS1_knockout"
+  },
+  {
+    "id": "BIOMD0000000095",
+    "name": "Zeilinger2006_PRR7-PRR9-Y"
+  },
+  {
+    "id": "BIOMD0000000096",
+    "name": "Zeilinger2006_PRR7-PRR9light-Y"
+  },
+  {
+    "id": "BIOMD0000000097",
+    "name": "Zeilinger2006_PRR7-PRR9light-Yprime"
+  },
+  {
+    "id": "BIOMD0000000098",
+    "name": "Goldbeter1990_CalciumSpike_CICR"
+  },
+  {
+    "id": "BIOMD0000000099",
+    "name": "Laub1998_SpontaneousOscillations"
+  },
+  {
+    "id": "BIOMD0000000100",
+    "name": "Rozi2003_GlycogenPhosphorylase_Activation"
+  },
+  {
+    "id": "BIOMD0000000101",
+    "name": "Vilar2006_TGFbeta"
+  },
+  {
+    "id": "BIOMD0000000102",
+    "name": "Legewie2006_apoptosis_WT"
+  },
+  {
+    "id": "BIOMD0000000103",
+    "name": "Legewie2006_apoptosis_NC"
+  },
+  {
+    "id": "BIOMD0000000104",
+    "name": "Klipp2002_MetabolicOptimization_linearPathway(n=2)"
+  },
+  {
+    "id": "BIOMD0000000105",
+    "name": "Proctor2007 - Age related decline of proteolysis, ubiquitin-proteome system"
+  },
+  {
+    "id": "BIOMD0000000106",
+    "name": "Yang2007_ArachidonicAcid"
+  },
+  {
+    "id": "BIOMD0000000107",
+    "name": "Novak1993 - Cell cycle M-phase control"
+  },
+  {
+    "id": "BIOMD0000000108",
+    "name": "Kowald2006_SOD"
+  },
+  {
+    "id": "BIOMD0000000109",
+    "name": "Haberichter2007_cellcycle"
+  },
+  {
+    "id": "BIOMD0000000110",
+    "name": "Qu2003_CellCycle"
+  },
+  {
+    "id": "BIOMD0000000111",
+    "name": "Novak2001_FissionYeast_CellCycle"
+  },
+  {
+    "id": "BIOMD0000000112",
+    "name": "Clarke2006_Smad_signalling"
+  },
+  {
+    "id": "BIOMD0000000113",
+    "name": "Dupont1992_Ca_dpt_protein_phospho"
+  },
+  {
+    "id": "BIOMD0000000114",
+    "name": "Somogyi1990_CaOscillations"
+  },
+  {
+    "id": "BIOMD0000000115",
+    "name": "Somogyi1990_CaOscillations_SingleCaSpike"
+  },
+  {
+    "id": "BIOMD0000000116",
+    "name": "McClean2007_CrossTalk"
+  },
+  {
+    "id": "BIOMD0000000117",
+    "name": "Dupont1991_CaOscillation"
+  },
+  {
+    "id": "BIOMD0000000119",
+    "name": "Golomb2006_SomaticBursting_nonzero[Ca]"
+  },
+  {
+    "id": "BIOMD0000000120",
+    "name": "Chan2004_TCell_receptor_activation"
+  },
+  {
+    "id": "BIOMD0000000121",
+    "name": "Clancy2001_Kchannel"
+  },
+  {
+    "id": "BIOMD0000000122",
+    "name": "Fisher2006_Ca_Oscillation_dpdnt_NFAT_dynamics"
+  },
+  {
+    "id": "BIOMD0000000123",
+    "name": "Fisher2006_NFAT_Activation"
+  },
+  {
+    "id": "BIOMD0000000124",
+    "name": "Wu2006_K+Channel"
+  },
+  {
+    "id": "BIOMD0000000125",
+    "name": "Komarova2005_TheoreticalFramework_BasicArchitecture"
+  },
+  {
+    "id": "BIOMD0000000126",
+    "name": "Clancy2002_CardiacSodiumChannel_WT"
+  },
+  {
+    "id": "BIOMD0000000128",
+    "name": "Bertram2006_Endothelin"
+  },
+  {
+    "id": "BIOMD0000000137",
+    "name": "Sedaghat2002_InsulinSignalling_noFeedback"
+  },
+  {
+    "id": "BIOMD0000000138",
+    "name": "Tabak2007_dopamine"
+  },
+  {
+    "id": "BIOMD0000000139",
+    "name": "Hoffmann2002_KnockOut_IkBNFkB_Signaling"
+  },
+  {
+    "id": "BIOMD0000000140",
+    "name": "Hoffmann2002_WT_IkBNFkB_Signaling"
+  },
+  {
+    "id": "BIOMD0000000143",
+    "name": "Olsen2003_neutrophil_oscillatory_metabolism"
+  },
+  {
+    "id": "BIOMD0000000144",
+    "name": "Calzone2007_CellCycle"
+  },
+  {
+    "id": "BIOMD0000000145",
+    "name": "Wang2007 - ATP induced intracellular Calcium Oscillation"
+  },
+  {
+    "id": "BIOMD0000000146",
+    "name": "Hatakeyama2003_MAPK"
+  },
+  {
+    "id": "BIOMD0000000147",
+    "name": "ODea2007_IkappaB"
+  },
+  {
+    "id": "BIOMD0000000148",
+    "name": "Komarova2003_BoneRemodeling"
+  },
+  {
+    "id": "BIOMD0000000149",
+    "name": "Kim2007 - Crosstalk between Wnt and ERK pathways"
+  },
+  {
+    "id": "BIOMD0000000150",
+    "name": "Morris2002_CellCycle_CDK2Cyclin"
+  },
+  {
+    "id": "BIOMD0000000151",
+    "name": "Singh2006_IL6_Signal_Transduction"
+  },
+  {
+    "id": "BIOMD0000000152",
+    "name": "Fernandez2006_ModelA"
+  },
+  {
+    "id": "BIOMD0000000153",
+    "name": "Fernandez2006_ModelB"
+  },
+  {
+    "id": "BIOMD0000000154",
+    "name": "Zatorsky2006_p53_Model3"
+  },
+  {
+    "id": "BIOMD0000000155",
+    "name": "Zatorsky2006_p53_Model6"
+  },
+  {
+    "id": "BIOMD0000000156",
+    "name": "Zatorsky2006_p53_Model5"
+  },
+  {
+    "id": "BIOMD0000000157",
+    "name": "Zatorsky2006_p53_Model4"
+  },
+  {
+    "id": "BIOMD0000000158",
+    "name": "Zatorsky2006_p53_Model2"
+  },
+  {
+    "id": "BIOMD0000000159",
+    "name": "Zatorsky2006_p53_Model1"
+  },
+  {
+    "id": "BIOMD0000000160",
+    "name": "Xie2007_CircClock"
+  },
+  {
+    "id": "BIOMD0000000161",
+    "name": "Eungdamrong2007_Ras_Activation"
+  },
+  {
+    "id": "BIOMD0000000162",
+    "name": "Hernjak2005_Calcium_Signaling"
+  },
+  {
+    "id": "BIOMD0000000163",
+    "name": "Zi2007_TGFbeta_signaling"
+  },
+  {
+    "id": "BIOMD0000000164",
+    "name": "SmithAE2002_RanTransport"
+  },
+  {
+    "id": "BIOMD0000000165",
+    "name": "Saucerman2006_PKA"
+  },
+  {
+    "id": "BIOMD0000000166",
+    "name": "Zhu2007_TF_modulated_by_Calcium"
+  },
+  {
+    "id": "BIOMD0000000167",
+    "name": "Mayya2005_STATmodule"
+  },
+  {
+    "id": "BIOMD0000000168",
+    "name": "Obeyesekere1999_CellCycle"
+  },
+  {
+    "id": "BIOMD0000000169",
+    "name": "Aguda1999_CellCycle"
+  },
+  {
+    "id": "BIOMD0000000170",
+    "name": "Weimann2004_CircadianOscillator"
+  },
+  {
+    "id": "BIOMD0000000171",
+    "name": "Leloup1998_CircClock_LD"
+  },
+  {
+    "id": "BIOMD0000000172",
+    "name": "Pritchard2002_glycolysis"
+  },
+  {
+    "id": "BIOMD0000000173",
+    "name": "Schmierer_2008_Smad_Tgfb"
+  },
+  {
+    "id": "BIOMD0000000174",
+    "name": "Del_Conte_Zerial2008_Rab5_Rab7_cut_out_switch"
+  },
+  {
+    "id": "BIOMD0000000175",
+    "name": "Birtwistle2007_ErbB_Signalling"
+  },
+  {
+    "id": "BIOMD0000000176",
+    "name": "Conant2007_WGD_glycolysis_2A3AB"
+  },
+  {
+    "id": "BIOMD0000000177",
+    "name": "Conant2007_glycolysis_2C"
+  },
+  {
+    "id": "BIOMD0000000178",
+    "name": "Lebeda2008 - BoTN Paralysis (4 step model)"
+  },
+  {
+    "id": "BIOMD0000000179",
+    "name": "Kim2007_CellularMemory_AsymmetricModel"
+  },
+  {
+    "id": "BIOMD0000000180",
+    "name": "Kim2007_CellularMemory_SymmetricModel"
+  },
+  {
+    "id": "BIOMD0000000181",
+    "name": "Sriram2007_CellCycle"
+  },
+  {
+    "id": "BIOMD0000000182",
+    "name": "Neves2008 - Role of cell shape and size in controlling intracellular signalling"
+  },
+  {
+    "id": "BIOMD0000000183",
+    "name": "Stefan2008 - calmodulin allostery"
+  },
+  {
+    "id": "BIOMD0000000184",
+    "name": "Lavrentovich2008_Ca_Oscillations"
+  },
+  {
+    "id": "BIOMD0000000185",
+    "name": "Locke2008_Circadian_Clock"
+  },
+  {
+    "id": "BIOMD0000000186",
+    "name": "Ibrahim2008 - Mitotic Spindle Assembly Checkpoint - Dissociation variant"
+  },
+  {
+    "id": "BIOMD0000000187",
+    "name": "Ibrahim2008 - Mitotic Spindle Assembly Checkpoint - Convey variant"
+  },
+  {
+    "id": "BIOMD0000000188",
+    "name": "Proctor2008 - p53/Mdm2 circuit - p53 stabilisation by ATM"
+  },
+  {
+    "id": "BIOMD0000000189",
+    "name": "Proctor2008 - p53/Mdm2 circuit - p53 stablisation by p14ARF"
+  },
+  {
+    "id": "BIOMD0000000190",
+    "name": "Rodriguez-Caso2006_Polyamine_Metabolism"
+  },
+  {
+    "id": "BIOMD0000000191",
+    "name": "Monta\uff83\uff71ez2008_Arginine_catabolism"
+  },
+  {
+    "id": "BIOMD0000000192",
+    "name": "G\uff83\uff76rlich2003_RanGTP_gradient"
+  },
+  {
+    "id": "BIOMD0000000193",
+    "name": "Ibrahim2008_MCC_assembly_model_KDM"
+  },
+  {
+    "id": "BIOMD0000000194",
+    "name": "Ibrahim2008_Cdc20_Sequestring_Template_Model"
+  },
+  {
+    "id": "BIOMD0000000195",
+    "name": "Tyson2001_Cell_Cycle_Regulation"
+  },
+  {
+    "id": "BIOMD0000000197",
+    "name": "Bartholome2007_MDCKII"
+  },
+  {
+    "id": "BIOMD0000000198",
+    "name": "Stone1996 - activation of soluble guanylate cyclase by nitric oxide"
+  },
+  {
+    "id": "BIOMD0000000199",
+    "name": "Santolini2001_nNOS_Mechanism_Regulation"
+  },
+  {
+    "id": "BIOMD0000000200",
+    "name": "Bray1995_chemotaxis_receptorlinkedcomplex"
+  },
+  {
+    "id": "BIOMD0000000201",
+    "name": "Goldbeter2008_Somite_Segmentation_Clock_Notch_Wnt_FGF"
+  },
+  {
+    "id": "BIOMD0000000202",
+    "name": "ChenXF2008_CICR"
+  },
+  {
+    "id": "BIOMD0000000203",
+    "name": "Chickarmane2006 - Stem cell switch reversible"
+  },
+  {
+    "id": "BIOMD0000000204",
+    "name": "Chickarmane2006 - Stem cell switch irreversible"
+  },
+  {
+    "id": "BIOMD0000000205",
+    "name": "Ung2008_EGFR_Endocytosis"
+  },
+  {
+    "id": "BIOMD0000000206",
+    "name": "Wolf2000_Glycolytic_Oscillations"
+  },
+  {
+    "id": "BIOMD0000000207",
+    "name": "Romond1999_CellCycle"
+  },
+  {
+    "id": "BIOMD0000000208",
+    "name": "Deineko2003_CellCycle"
+  },
+  {
+    "id": "BIOMD0000000209",
+    "name": "Chickarmane2008 - Stem cell lineage determination"
+  },
+  {
+    "id": "BIOMD0000000210",
+    "name": "Chickarmane2008 - Stem cell lineage - NANOG GATA-6 switch"
+  },
+  {
+    "id": "BIOMD0000000211",
+    "name": "Albert2005_Glycolysis"
+  },
+  {
+    "id": "BIOMD0000000212",
+    "name": "Curien2009_Aspartate_Metabolism"
+  },
+  {
+    "id": "BIOMD0000000213",
+    "name": "Nijhout2004_Folate_Cycle"
+  },
+  {
+    "id": "BIOMD0000000214",
+    "name": "Akman2008_Circadian_Clock_Model2"
+  },
+  {
+    "id": "BIOMD0000000215",
+    "name": "Schulz2009_Th1_differentiation"
+  },
+  {
+    "id": "BIOMD0000000216",
+    "name": "Hong2009_CircadianClock"
+  },
+  {
+    "id": "BIOMD0000000217",
+    "name": "Bruggeman2005_AmmoniumAssimilation"
+  },
+  {
+    "id": "BIOMD0000000218",
+    "name": "Singh2006_TCA_mtu_model2"
+  },
+  {
+    "id": "BIOMD0000000219",
+    "name": "Singh2006_TCA_mtu_model1"
+  },
+  {
+    "id": "BIOMD0000000220",
+    "name": "Albeck2008_extrinsic_apoptosis"
+  },
+  {
+    "id": "BIOMD0000000221",
+    "name": "Singh2006_TCA_Ecoli_acetate"
+  },
+  {
+    "id": "BIOMD0000000222",
+    "name": "Singh2006_TCA_Ecoli_glucose"
+  },
+  {
+    "id": "BIOMD0000000223",
+    "name": "Borisov2009_EGF_Insulin_Crosstalk"
+  },
+  {
+    "id": "BIOMD0000000224",
+    "name": "Meyer1991_CalciumSpike_ICC"
+  },
+  {
+    "id": "BIOMD0000000225",
+    "name": "Westermark2003_Pancreatic_GlycOsc_basic"
+  },
+  {
+    "id": "BIOMD0000000226",
+    "name": "Radulescu2008_NFkB_hierarchy_M_14_25_28_Lipniacky"
+  },
+  {
+    "id": "BIOMD0000000227",
+    "name": "Radulescu2008_NFkB_hierarchy_M_39_65_90"
+  },
+  {
+    "id": "BIOMD0000000228",
+    "name": "Swat2004_Mammalian_G1_S_Transition"
+  },
+  {
+    "id": "BIOMD0000000229",
+    "name": "Ma2002_cAMP_oscillations"
+  },
+  {
+    "id": "BIOMD0000000230",
+    "name": "Ihekwaba2004_NFkB_Sensitivity"
+  },
+  {
+    "id": "BIOMD0000000231",
+    "name": "Valero2006_Adenine_TernaryCycle"
+  },
+  {
+    "id": "BIOMD0000000232",
+    "name": "Nazaret2009_TCA_RC_ATP"
+  },
+  {
+    "id": "BIOMD0000000233",
+    "name": "Wilhelm2009_BistableReaction"
+  },
+  {
+    "id": "BIOMD0000000235",
+    "name": "Kuhn2009_EndoMesodermNetwork"
+  },
+  {
+    "id": "BIOMD0000000236",
+    "name": "Westermark2003_Pancreatic_GlycOsc_extended"
+  },
+  {
+    "id": "BIOMD0000000237",
+    "name": "Schaber2006_Pheromone_Starvation_Crosstalk"
+  },
+  {
+    "id": "BIOMD0000000239",
+    "name": "Jiang2007 - GSIS system, Pancreatic Beta Cells"
+  },
+  {
+    "id": "BIOMD0000000240",
+    "name": "Veening2008_DegU_Regulation"
+  },
+  {
+    "id": "BIOMD0000000242",
+    "name": "Bai2003_G1phaseRegulation"
+  },
+  {
+    "id": "BIOMD0000000243",
+    "name": "Neumann2010_CD95Stimulation_NFkB_Apoptosis"
+  },
+  {
+    "id": "BIOMD0000000244",
+    "name": "Kotte2010_Ecoli_Metabolic_Adaption"
+  },
+  {
+    "id": "BIOMD0000000245",
+    "name": "Lei2001_Yeast_Aerobic_Metabolism"
+  },
+  {
+    "id": "BIOMD0000000246",
+    "name": "Vasalou2010_Pacemaker_Neuron_SCN"
+  },
+  {
+    "id": "BIOMD0000000247",
+    "name": "Ralser2007_Carbohydrate_Rerouting_ROS"
+  },
+  {
+    "id": "BIOMD0000000248",
+    "name": "Lai2007_O2_Transport_Metabolism"
+  },
+  {
+    "id": "BIOMD0000000249",
+    "name": "Restif2006 - Whooping cough"
+  },
+  {
+    "id": "BIOMD0000000250",
+    "name": "Nakakuki2010_CellFateDecision_Mechanistic"
+  },
+  {
+    "id": "BIOMD0000000251",
+    "name": "Nakakuki2010_CellFateDecision_Core"
+  },
+  {
+    "id": "BIOMD0000000253",
+    "name": "Teusink1998_Glycolysis_TurboDesign"
+  },
+  {
+    "id": "BIOMD0000000255",
+    "name": "Chen2009 - ErbB Signaling"
+  },
+  {
+    "id": "BIOMD0000000256",
+    "name": "Rehm2006_Caspase"
+  },
+  {
+    "id": "BIOMD0000000257",
+    "name": "Piedrafita2010_MR_System"
+  },
+  {
+    "id": "BIOMD0000000258",
+    "name": "Ortega2006 - bistability from double phosphorylation in signal transduction"
+  },
+  {
+    "id": "BIOMD0000000259",
+    "name": "Tiago2010_FeMetabolism_FeDeficient"
+  },
+  {
+    "id": "BIOMD0000000260",
+    "name": "Tiago2010_FeMetabolism_FeAdequate"
+  },
+  {
+    "id": "BIOMD0000000261",
+    "name": "Tiago2010_FeMetabolism_FeLoaded"
+  },
+  {
+    "id": "BIOMD0000000262",
+    "name": "Fujita2010_Akt_Signalling_EGF"
+  },
+  {
+    "id": "BIOMD0000000263",
+    "name": "Fujita2010_Akt_Signalling_NGF"
+  },
+  {
+    "id": "BIOMD0000000264",
+    "name": "Fujita2010_Akt_Signalling_EGFRinhib"
+  },
+  {
+    "id": "BIOMD0000000265",
+    "name": "Conradie2010_RPControl_CellCycle"
+  },
+  {
+    "id": "BIOMD0000000267",
+    "name": "Lebeda2008 - BoNT paralysis (3 step model)"
+  },
+  {
+    "id": "BIOMD0000000268",
+    "name": "Reed2008_Glutathione_Metabolism"
+  },
+  {
+    "id": "BIOMD0000000269",
+    "name": "Liu2010_Hormonal_Crosstalk_Arabidopsis"
+  },
+  {
+    "id": "BIOMD0000000270",
+    "name": "Schilling2009 - ERK distributive"
+  },
+  {
+    "id": "BIOMD0000000271",
+    "name": "Becker2010_EpoR_CoreModel"
+  },
+  {
+    "id": "BIOMD0000000272",
+    "name": "Becker2010_EpoR_AuxiliaryModel"
+  },
+  {
+    "id": "BIOMD0000000273",
+    "name": "Pokhilko2010_CircClock"
+  },
+  {
+    "id": "BIOMD0000000275",
+    "name": "Goldbeter2007_Somitogenesis_Switch"
+  },
+  {
+    "id": "BIOMD0000000281",
+    "name": "Chance1960_Glycolysis_Respiration"
+  },
+  {
+    "id": "BIOMD0000000282",
+    "name": "Chance1952_Catalase_Mechanism"
+  },
+  {
+    "id": "BIOMD0000000283",
+    "name": "Chance1943_Peroxidase_ES_Kinetics"
+  },
+  {
+    "id": "BIOMD0000000284",
+    "name": "Hofmeyer1986_SeqFb_Proc_AA_Synthesis"
+  },
+  {
+    "id": "BIOMD0000000285",
+    "name": "Tang2010_PolyGlutamate"
+  },
+  {
+    "id": "BIOMD0000000286",
+    "name": "Proctor2010 - a link between GSK3 and p53 in Alzheimer's Disease"
+  },
+  {
+    "id": "BIOMD0000000287",
+    "name": "Passos2010_DNAdamage_CellularSenescence"
+  },
+  {
+    "id": "BIOMD0000000288",
+    "name": "Wang2009 - PI3K Ras Crosstalk"
+  },
+  {
+    "id": "BIOMD0000000289",
+    "name": "Alexander2010_Tcell_Regulation_Sys1"
+  },
+  {
+    "id": "BIOMD0000000290",
+    "name": "Alexander2010_Tcell_Regulation_Sys2"
+  },
+  {
+    "id": "BIOMD0000000292",
+    "name": "Rovers1995_Photsynthetic_Oscillations"
+  },
+  {
+    "id": "BIOMD0000000293",
+    "name": "Proctor2010 - UCHL1 Protein Aggregation"
+  },
+  {
+    "id": "BIOMD0000000294",
+    "name": "Restif2007 - Vaccination invasion"
+  },
+  {
+    "id": "BIOMD0000000295",
+    "name": "Akman2008_Circadian_Clock_Model1"
+  },
+  {
+    "id": "BIOMD0000000296",
+    "name": "Balagadd\uff83\uff692008_E_coli_Predator_Prey"
+  },
+  {
+    "id": "BIOMD0000000297",
+    "name": "Ciliberto2003_Morphogenesis_Checkpoint"
+  },
+  {
+    "id": "BIOMD0000000300",
+    "name": "Schmierer2010_FIH_Ankyrins"
+  },
+  {
+    "id": "BIOMD0000000301",
+    "name": "Friedland2009_Ara_RTC3_counter"
+  },
+  {
+    "id": "BIOMD0000000303",
+    "name": "Liu2011_Complement_System"
+  },
+  {
+    "id": "BIOMD0000000305",
+    "name": "Kolomeisky2003_MyosinV_Processivity"
+  },
+  {
+    "id": "BIOMD0000000306",
+    "name": "Tyson2003_Activator_Inhibitor"
+  },
+  {
+    "id": "BIOMD0000000307",
+    "name": "Tyson2003_Substrate_Depletion_Osc"
+  },
+  {
+    "id": "BIOMD0000000308",
+    "name": "Tyson2003_NegFB_Oscillator"
+  },
+  {
+    "id": "BIOMD0000000309",
+    "name": "Tyson2003_NegFB_Homeostasis"
+  },
+  {
+    "id": "BIOMD0000000310",
+    "name": "Tyson2003_Mutual_Inhibition"
+  },
+  {
+    "id": "BIOMD0000000311",
+    "name": "Tyson2003_Mutual_Activation"
+  },
+  {
+    "id": "BIOMD0000000312",
+    "name": "Tyson2003_Perfect_Adaption"
+  },
+  {
+    "id": "BIOMD0000000313",
+    "name": "Raia2010 - IL13 Signalling MedB1"
+  },
+  {
+    "id": "BIOMD0000000314",
+    "name": "Raia2011 - IL13 L1236"
+  },
+  {
+    "id": "BIOMD0000000315",
+    "name": "Montagne2011_Oligator_optimised"
+  },
+  {
+    "id": "BIOMD0000000316",
+    "name": "Shen-Orr2002_FeedForward_AND_gate"
+  },
+  {
+    "id": "BIOMD0000000317",
+    "name": "Shen-Orr2002_Single_Input_Module"
+  },
+  {
+    "id": "BIOMD0000000318",
+    "name": "Yao2008_Rb_E2F_Switch"
+  },
+  {
+    "id": "BIOMD0000000319",
+    "name": "Decroly1982_Enzymatic_Oscillator"
+  },
+  {
+    "id": "BIOMD0000000320",
+    "name": "Grange2001 - PK interaction of L-dopa and benserazide"
+  },
+  {
+    "id": "BIOMD0000000321",
+    "name": "Grange2001 - L Dopa PK model"
+  },
+  {
+    "id": "BIOMD0000000322",
+    "name": "Kim2011_Oscillator_SimpleI"
+  },
+  {
+    "id": "BIOMD0000000323",
+    "name": "Kim2011_Oscillator_SimpleIII"
+  },
+  {
+    "id": "BIOMD0000000325",
+    "name": "Palini2011_Minimal_2_Feedback_Model"
+  },
+  {
+    "id": "BIOMD0000000326",
+    "name": "DellOrco2009_phototransduction"
+  },
+  {
+    "id": "BIOMD0000000327",
+    "name": "Whitcomb2004_Bicarbonate_Pancreas"
+  },
+  {
+    "id": "BIOMD0000000328",
+    "name": "Bucher2011_Atorvastatin_Metabolism"
+  },
+  {
+    "id": "BIOMD0000000329",
+    "name": "Kummer2000 - Oscillations in Calcium Signalling"
+  },
+  {
+    "id": "BIOMD0000000332",
+    "name": "Bungay2006_Plasma"
+  },
+  {
+    "id": "BIOMD0000000333",
+    "name": "Bungay2006_FollicularFluid"
+  },
+  {
+    "id": "BIOMD0000000334",
+    "name": "Bungay2003_Thrombin_Generation"
+  },
+  {
+    "id": "BIOMD0000000335",
+    "name": "Hockin2002_BloodCoagulation"
+  },
+  {
+    "id": "BIOMD0000000336",
+    "name": "Jones1994_BloodCoagulation"
+  },
+  {
+    "id": "BIOMD0000000337",
+    "name": "Pfeiffer2001_ATP-ProducingPathways_CooperationCompetition"
+  },
+  {
+    "id": "BIOMD0000000338",
+    "name": "Wajima2009_BloodCoagulation_aPTTtest"
+  },
+  {
+    "id": "BIOMD0000000339",
+    "name": "Wajima2009_BloodCoagulation_PTtest"
+  },
+  {
+    "id": "BIOMD0000000340",
+    "name": "Wajima2009_BloodCoagulation_warfarin_heparin"
+  },
+  {
+    "id": "BIOMD0000000342",
+    "name": "Zi2011_TGF-beta_Pathway"
+  },
+  {
+    "id": "BIOMD0000000344",
+    "name": "Proctor2011_ProteinHomeostasis_NormalCondition"
+  },
+  {
+    "id": "BIOMD0000000347",
+    "name": "Bachmann2011_JAK2-STAT5_FeedbackControl"
+  },
+  {
+    "id": "BIOMD0000000350",
+    "name": "Troein2011_ClockCircuit_OstreococcusTauri"
+  },
+  {
+    "id": "BIOMD0000000351",
+    "name": "Vernoux2011_AuxinSignaling_AuxinSingleStepInput"
+  },
+  {
+    "id": "BIOMD0000000352",
+    "name": "Vernoux2011_AuxinSignaling_AuxinFluctuating"
+  },
+  {
+    "id": "BIOMD0000000353",
+    "name": "Nag2011_ChloroplasticStarchDegradation"
+  },
+  {
+    "id": "BIOMD0000000354",
+    "name": "Abell2011_CalciumSignaling_WithoutAdaptation"
+  },
+  {
+    "id": "BIOMD0000000355",
+    "name": "Abell2011_CalciumSignaling_WithAdaptation"
+  },
+  {
+    "id": "BIOMD0000000356",
+    "name": "Nyman2011_M3Hierarachical_InsulinGlucosedynamics"
+  },
+  {
+    "id": "BIOMD0000000357",
+    "name": "Lee2010_ThrombinActivation_OneForm_reduced"
+  },
+  {
+    "id": "BIOMD0000000358",
+    "name": "Stortelder1997 - Thrombin Generation Amidolytic Activity"
+  },
+  {
+    "id": "BIOMD0000000359",
+    "name": "Panteleev2002_TFPImechanism_schmema3"
+  },
+  {
+    "id": "BIOMD0000000360",
+    "name": "Panteleev2002_TFPImechanism_schmema2"
+  },
+  {
+    "id": "BIOMD0000000361",
+    "name": "Panteleev2002_TFPImechanism_schmema1"
+  },
+  {
+    "id": "BIOMD0000000362",
+    "name": "Butenas2004_BloodCoagulation"
+  },
+  {
+    "id": "BIOMD0000000363",
+    "name": "Lee2010_ThrombinActivation_OneForm_minimal"
+  },
+  {
+    "id": "BIOMD0000000364",
+    "name": "Lee2010_ThrombinActivation_OneForm"
+  },
+  {
+    "id": "BIOMD0000000365",
+    "name": "Hockin1999_BloodCoagulation_VaInactivation"
+  },
+  {
+    "id": "BIOMD0000000366",
+    "name": "Orfao2008_ThrombinGeneration_AmidolyticActivity"
+  },
+  {
+    "id": "BIOMD0000000380",
+    "name": "Smallbone2011_TrehaloseBiosynthesis"
+  },
+  {
+    "id": "BIOMD0000000383",
+    "name": "Arnold2011_Farquhar1980_RuBisCO-CalvinCycle"
+  },
+  {
+    "id": "BIOMD0000000384",
+    "name": "Arnold2011_Medlyn2002_RuBisCO-CalvinCycle"
+  },
+  {
+    "id": "BIOMD0000000385",
+    "name": "Arnold2011_Schultz2003_RuBisCO-CalvinCycle"
+  },
+  {
+    "id": "BIOMD0000000386",
+    "name": "Arnold2011_Sharkey2007_RuBisCO-CalvinCycle"
+  },
+  {
+    "id": "BIOMD0000000387",
+    "name": "Arnold2011_Damour2007_RuBisCO-CalvinCycle"
+  },
+  {
+    "id": "BIOMD0000000388",
+    "name": "Arnold2011_Zhu2009_CalvinCycle"
+  },
+  {
+    "id": "BIOMD0000000389",
+    "name": "Arnold2011_Hahn1986_CalvinCycle_Starch_Sucrose"
+  },
+  {
+    "id": "BIOMD0000000390",
+    "name": "Arnold2011_Giersch1990_CalvinCycle"
+  },
+  {
+    "id": "BIOMD0000000391",
+    "name": "Arnold2011_Poolman2000_CalvinCycle_Starch"
+  },
+  {
+    "id": "BIOMD0000000392",
+    "name": "Arnold2011_Laisk2006_CalvinCycle_Starch_Sucrose"
+  },
+  {
+    "id": "BIOMD0000000393",
+    "name": "Arnold2011_Zhu2007_CalvinCycle_Starch_Sucrose_Photorespiration"
+  },
+  {
+    "id": "BIOMD0000000394",
+    "name": "Sivakumar2011 - EGF Receptor Signaling Pathway"
+  },
+  {
+    "id": "BIOMD0000000395",
+    "name": "Sivakumar2011 - Hedgehog Signaling Pathway"
+  },
+  {
+    "id": "BIOMD0000000396",
+    "name": "Sivakumar2011 - Notch Signaling Pathway"
+  },
+  {
+    "id": "BIOMD0000000397",
+    "name": "Sivakumar2011_WntSignalingPathway"
+  },
+  {
+    "id": "BIOMD0000000398",
+    "name": "Sivakumar2011_NeuralStemCellDifferentiation_Crosstalk"
+  },
+  {
+    "id": "BIOMD0000000399",
+    "name": "Jenkinson2011_EGF_MAPK"
+  },
+  {
+    "id": "BIOMD0000000404",
+    "name": "Bray1993_chemotaxis"
+  },
+  {
+    "id": "BIOMD0000000405",
+    "name": "Cookson2011_EnzymaticQueueingCoupling"
+  },
+  {
+    "id": "BIOMD0000000406",
+    "name": "Moriya2011_CellCycle_FissionYeast"
+  },
+  {
+    "id": "BIOMD0000000407",
+    "name": "Schliemann2011_TNF_ProAntiApoptosis"
+  },
+  {
+    "id": "BIOMD0000000408",
+    "name": "Hettling2011_CreatineKinase"
+  },
+  {
+    "id": "BIOMD0000000409",
+    "name": "Queralt2006_MitoticExit_Cdc55DownregulationBySeparase"
+  },
+  {
+    "id": "BIOMD0000000410",
+    "name": "Wegner2012_TGFbetaSignalling_FeedbackLoops"
+  },
+  {
+    "id": "BIOMD0000000411",
+    "name": "Heiland2012_CircadianClock_C.reinhardtii"
+  },
+  {
+    "id": "BIOMD0000000412",
+    "name": "Pokhilko2012_CircClock_RepressilatorFeedbackloop"
+  },
+  {
+    "id": "BIOMD0000000413",
+    "name": "Band2012_DII-Venus_FullModel"
+  },
+  {
+    "id": "BIOMD0000000414",
+    "name": "Band2012_DII-Venus_ReducedModel"
+  },
+  {
+    "id": "BIOMD0000000415",
+    "name": "Mellor2012_LipooxygenasePathway"
+  },
+  {
+    "id": "BIOMD0000000416",
+    "name": "Muraro2011_Cytokinin-Auxin_CrossRegulation"
+  },
+  {
+    "id": "BIOMD0000000417",
+    "name": "Ratushny2012_NF"
+  },
+  {
+    "id": "BIOMD0000000418",
+    "name": "Ratushny2012_SPF"
+  },
+  {
+    "id": "BIOMD0000000419",
+    "name": "Ratushny2012_SPF_I"
+  },
+  {
+    "id": "BIOMD0000000420",
+    "name": "Ratushny2012_ASSURE_I"
+  },
+  {
+    "id": "BIOMD0000000421",
+    "name": "Ratushny2012_ASSURE_II"
+  },
+  {
+    "id": "BIOMD0000000422",
+    "name": "Middleton2012_GibberellinSignalling"
+  },
+  {
+    "id": "BIOMD0000000423",
+    "name": "Nyman2012_InsulinSignalling"
+  },
+  {
+    "id": "BIOMD0000000424",
+    "name": "Faratian2009 - Role of PTEN in Trastuzumab resistance"
+  },
+  {
+    "id": "BIOMD0000000425",
+    "name": "Tan2012 - Antibiotic Treatment, Inoculum Effect"
+  },
+  {
+    "id": "BIOMD0000000426",
+    "name": "Mosca2012 - Central Carbon Metabolism Regulated by AKT"
+  },
+  {
+    "id": "BIOMD0000000427",
+    "name": "Bianconi2012 - EGFR and IGF1R pathway in lung cancer"
+  },
+  {
+    "id": "BIOMD0000000428",
+    "name": "Achcar2012 - Glycolysis in bloodstream form T. brucei"
+  },
+  {
+    "id": "BIOMD0000000429",
+    "name": "Schaber2012 - Hog pathway in yeast"
+  },
+  {
+    "id": "BIOMD0000000430",
+    "name": "Sarma2012 - Interaction topologies of MAPK cascade (M4_K2_USEQ)"
+  },
+  {
+    "id": "BIOMD0000000431",
+    "name": "Sarma2012 - Interaction topologies of MAPK cascade (M4_K2_PSEQ)"
+  },
+  {
+    "id": "BIOMD0000000432",
+    "name": "Sarma2012 - Interaction topologies of MAPK cascade (M4_K2_QSS_USEQ)"
+  },
+  {
+    "id": "BIOMD0000000433",
+    "name": "Sarma2012 - Interaction topologies of MAPK cascade (M4_K2_QSS_PSEQ)"
+  },
+  {
+    "id": "BIOMD0000000434",
+    "name": "McAuley2012 - Whole-body Cholesterol Metabolism"
+  },
+  {
+    "id": "BIOMD0000000435",
+    "name": "deBack2012 - Lineage Specification in Pancreas Development"
+  },
+  {
+    "id": "BIOMD0000000436",
+    "name": "Gupta2009 - Eicosanoid Metabolism"
+  },
+  {
+    "id": "BIOMD0000000437",
+    "name": "Tseng2012 - Circadian clock of N.crassa"
+  },
+  {
+    "id": "BIOMD0000000438",
+    "name": "Saeidi2012 - Quorum sensing device that produces GFP"
+  },
+  {
+    "id": "BIOMD0000000439",
+    "name": "Smith2009 - RGS mediated GTP hydrolysis"
+  },
+  {
+    "id": "BIOMD0000000440",
+    "name": "Sarma2012 - Oscillations in MAPK cascade (S1)"
+  },
+  {
+    "id": "BIOMD0000000441",
+    "name": "Sarma2012 - Oscillations in MAPK cascade (S2)"
+  },
+  {
+    "id": "BIOMD0000000442",
+    "name": "Sarma2012 - Oscillations in MAPK cascade (S2), inclusion of external signalling module"
+  },
+  {
+    "id": "BIOMD0000000443",
+    "name": "Sarma2012 - Oscillations in MAPK cascade (S1n)"
+  },
+  {
+    "id": "BIOMD0000000444",
+    "name": "Sarma2012 - Oscillations in MAPK cascade (S2n)"
+  },
+  {
+    "id": "BIOMD0000000445",
+    "name": "Pokhilko2013 - TOC1 signalling in Arabidopsis circadian clock"
+  },
+  {
+    "id": "BIOMD0000000446",
+    "name": "Erguler2013 - Unfolded protein stress response"
+  },
+  {
+    "id": "BIOMD0000000447",
+    "name": "Venkatraman2012 - Interplay between PLS and TSP1 in TGF-\uff8e\uff721 activation"
+  },
+  {
+    "id": "BIOMD0000000448",
+    "name": "Br\uff83\uff64nnmark2013 - Insulin signalling in human adipocytes (normal condition)"
+  },
+  {
+    "id": "BIOMD0000000449",
+    "name": "Br\uff83\uff64nnmark2013 - Insulin signalling in human adipocytes (diabetic condition)"
+  },
+  {
+    "id": "BIOMD0000000450",
+    "name": "Reyes-Palomares2012 -  a combined model hepatic polyamine and sulfur aminoacid metabolism - version2"
+  },
+  {
+    "id": "BIOMD0000000451",
+    "name": "Carbo2013 - Cytokine driven CD4+ T Cell differentiation and phenotype plasticity"
+  },
+  {
+    "id": "BIOMD0000000452",
+    "name": "Bidkhori2012 - normal EGFR signalling"
+  },
+  {
+    "id": "BIOMD0000000453",
+    "name": "Bidkhori2012 - EGFR signalling in NSCLC"
+  },
+  {
+    "id": "BIOMD0000000454",
+    "name": "Smallbone2013 - Metabolic Control Analysis - Example 1"
+  },
+  {
+    "id": "BIOMD0000000455",
+    "name": "Smallbone2013 - Metabolic Control Analysis - Example 2"
+  },
+  {
+    "id": "BIOMD0000000456",
+    "name": "Smallbone2013 - Metabolic Control Analysis - Example 3"
+  },
+  {
+    "id": "BIOMD0000000457",
+    "name": "Firczuk2013 - Eukaryotic mRNA translation machinery"
+  },
+  {
+    "id": "BIOMD0000000458",
+    "name": "Smallbone2013 - Serine biosynthesis"
+  },
+  {
+    "id": "BIOMD0000000459",
+    "name": "Liebal2012 - B.subtilis post-transcriptional instability model"
+  },
+  {
+    "id": "BIOMD0000000460",
+    "name": "Liebal2012 - B.subtilis sigB proteolysis model"
+  },
+  {
+    "id": "BIOMD0000000461",
+    "name": "Liebal2012 - B.subtilis transcription inhibition model"
+  },
+  {
+    "id": "BIOMD0000000462",
+    "name": "Proctor2012 - Role of Amyloid-beta dimers in aggregation formation"
+  },
+  {
+    "id": "BIOMD0000000463",
+    "name": "Heldt2012 - Influenza Virus Replication"
+  },
+  {
+    "id": "BIOMD0000000464",
+    "name": "Koo2013 - Shear stress induced calcium influx and eNOS activation - Model 1"
+  },
+  {
+    "id": "BIOMD0000000465",
+    "name": "Koo2013 - Shear stress induced AKT and eNOS phosphorylation - Model 2"
+  },
+  {
+    "id": "BIOMD0000000466",
+    "name": "Koo2013 - Shear stress induced eNOS expression - Model 3"
+  },
+  {
+    "id": "BIOMD0000000467",
+    "name": "Koo2013 - Shear stress induced NO production - Model 4"
+  },
+  {
+    "id": "BIOMD0000000468",
+    "name": "Koo2013 - Integrated shear stress induced NO production model"
+  },
+  {
+    "id": "BIOMD0000000469",
+    "name": "Smallbone2013 - E.coli metabolic model with linlog rate law"
+  },
+  {
+    "id": "BIOMD0000000470",
+    "name": "Smallbone2013 - E.coli metabolic model with modular rate law"
+  },
+  {
+    "id": "BIOMD0000000471",
+    "name": "Smallbone2013 - Yeast metabolic model with linlog rate law"
+  },
+  {
+    "id": "BIOMD0000000472",
+    "name": "Smallbone2013 - Yeast metabolic model with modular rate law"
+  },
+  {
+    "id": "BIOMD0000000473",
+    "name": "Smallbone2013 - Yeast metabolic model with modular rate law, merged with Pritchard 2002"
+  },
+  {
+    "id": "BIOMD0000000474",
+    "name": "Smith2013 - Regulation of Insulin Signalling by Oxidative Stress"
+  },
+  {
+    "id": "BIOMD0000000475",
+    "name": "Amara2013 - PCNA ubiquitylation in the activation of PRR pathway"
+  },
+  {
+    "id": "BIOMD0000000476",
+    "name": "Adams2012 - Locke2006 Circadian Rhythm model refined with Input Signal Light Function"
+  },
+  {
+    "id": "BIOMD0000000477",
+    "name": "Mol2013 - Immune Signal Transduction in Leishmaniasis"
+  },
+  {
+    "id": "BIOMD0000000478",
+    "name": "Besozzi2012 - Oscillatory regimes in the Ras/cAMP/PKA pathway in S.cerevisiae"
+  },
+  {
+    "id": "BIOMD0000000479",
+    "name": "Croft2013 - GPCR-RGS interaction that compartmentalizes RGS activity"
+  },
+  {
+    "id": "BIOMD0000000480",
+    "name": "Carbo2013 - Mucosal Immune Response during H.pylori Infection"
+  },
+  {
+    "id": "BIOMD0000000481",
+    "name": "St\uff83\uff76tzel2012 - Bovine estrous cycle, synchronization with prostaglandin F2\uff8e\uff71"
+  },
+  {
+    "id": "BIOMD0000000482",
+    "name": "Noguchi2013 - Insulin dependent glucose metabolism"
+  },
+  {
+    "id": "BIOMD0000000483",
+    "name": "Cao2008 - Network of a toggle switch"
+  },
+  {
+    "id": "BIOMD0000000484",
+    "name": "Cao2013 - Application of ABSIS method in birth-death process"
+  },
+  {
+    "id": "BIOMD0000000485",
+    "name": "Cao2013 - Application of ABSIS method in the bistable Schl\uff83\uff76gl model"
+  },
+  {
+    "id": "BIOMD0000000486",
+    "name": "Cao2013 - Application of ABSIS method in the reversible isomerization model"
+  },
+  {
+    "id": "BIOMD0000000487",
+    "name": "Cao2013 - Application of ABSIS in the the enzymatic futile cycle"
+  },
+  {
+    "id": "BIOMD0000000488",
+    "name": "Proctor2013 - Effect of A\uff8e\uff72 immunisation in Alzheimer's disease (deterministic version)"
+  },
+  {
+    "id": "BIOMD0000000489",
+    "name": "Sharp2013 - Lipopolysaccharide induced NFkB activation"
+  },
+  {
+    "id": "BIOMD0000000490",
+    "name": "Demin2013 - PKPD behaviour - 5-Lipoxygenase inhibitors"
+  },
+  {
+    "id": "BIOMD0000000491",
+    "name": "Pathak2013 - MAPK activation in response to various abiotic stresses"
+  },
+  {
+    "id": "BIOMD0000000492",
+    "name": "Pathak2013 - MAPK activation in response to various biotic stresses"
+  },
+  {
+    "id": "BIOMD0000000493",
+    "name": "Schittler2010 - Cell fate of progenitor cells, osteoblasts or chondrocytes"
+  },
+  {
+    "id": "BIOMD0000000494",
+    "name": "Roblitz2013 - Menstrual Cycle following GnRH analogue administration"
+  },
+  {
+    "id": "BIOMD0000000495",
+    "name": "Sen2013 - Phospholipid Synthesis in P.knowlesi"
+  },
+  {
+    "id": "BIOMD0000000496",
+    "name": "Stanford2013 - Kinetic model of yeast metabolic network (standard)"
+  },
+  {
+    "id": "BIOMD0000000497",
+    "name": "Stanford2013 - Kinetic model of yeast metabolic network (regulation)"
+  },
+  {
+    "id": "BIOMD0000000498",
+    "name": "Mitchell2013 - Liver Iron Metabolism"
+  },
+  {
+    "id": "BIOMD0000000500",
+    "name": "Begitt2014 - STAT1 cooperative DNA binding - single GAS polymer model"
+  },
+  {
+    "id": "BIOMD0000000501",
+    "name": "Begitt2014 - STAT1 cooperative DNA binding - double GAS polymer model"
+  },
+  {
+    "id": "BIOMD0000000502",
+    "name": "Messiha2013 - Pentose phosphate pathway model"
+  },
+  {
+    "id": "BIOMD0000000503",
+    "name": "Messiha2013 - combined glycolysis and pentose phosphate pathway model"
+  },
+  {
+    "id": "BIOMD0000000504",
+    "name": "Proctor2013 - Cartilage breakdown, interventions to reduce collagen release"
+  },
+  {
+    "id": "BIOMD0000000505",
+    "name": "vanEunen2013 - Network dynamics of fatty acid \uff8e\uff72-oxidation (steady-state model)"
+  },
+  {
+    "id": "BIOMD0000000506",
+    "name": "vanEunen2013 - Network dynamics of fatty acid \uff8e\uff72-oxidation (time-course model)"
+  },
+  {
+    "id": "BIOMD0000000507",
+    "name": "Gardner2000 - genetic toggle switch in E.coli"
+  },
+  {
+    "id": "BIOMD0000000510",
+    "name": "Kerkhoven2013 - Glycolysis and Pentose Phosphate Pathway in T.brucei - MODEL C (with glucosomal ribokinase)"
+  },
+  {
+    "id": "BIOMD0000000511",
+    "name": "Kerkhoven2013 - Glycolysis and Pentose Phosphate Pathway in T.brucei - MODEL D (with ATP:ADP antiporter)"
+  },
+  {
+    "id": "BIOMD0000000512",
+    "name": "Benson2014 - FAAH inhibitors for the treatment of osteoarthritic pain"
+  },
+  {
+    "id": "BIOMD0000000513",
+    "name": "Kerkhoven2013 - Glycolysis in T.brucei - MODEL A"
+  },
+  {
+    "id": "BIOMD0000000514",
+    "name": "Kerkhoven2013 - Glycolysis and Pentose Phosphate Pathway in T.brucei - MODEL B"
+  },
+  {
+    "id": "BIOMD0000000515",
+    "name": "Kerkhoven2013 - Glycolysis and Pentose Phosphate Pathway in T.brucei - MODEL C in fructose medium (with glucosomal ribokinase)"
+  },
+  {
+    "id": "BIOMD0000000516",
+    "name": "Kerkhoven2013 - Glycolysis and Pentose Phosphate Pathway in T.brucei - MODEL D in fructose medium (with ATP:ADP antiporter)"
+  },
+  {
+    "id": "BIOMD0000000517",
+    "name": "Smallbone2013 - Colon Crypt cycle - Version 3"
+  },
+  {
+    "id": "BIOMD0000000518",
+    "name": "Smallbone2013 - Colon Crypt cycle - Version 2"
+  },
+  {
+    "id": "BIOMD0000000519",
+    "name": "Smallbone2013 - Colon Crypt cycle - Version 1"
+  },
+  {
+    "id": "BIOMD0000000520",
+    "name": "Smallbone2013 - Colon Crypt cycle - Version 0"
+  },
+  {
+    "id": "BIOMD0000000523",
+    "name": "Kallenberger2014 - CD95L induced apoptosis initiated by caspase-8, CD95 HeLa cells (cis/trans variant)"
+  },
+  {
+    "id": "BIOMD0000000524",
+    "name": "Kallenberger2014 - CD95L induced apoptosis initiated by caspase-8, wild-type HeLa cells (cis/trans variant)"
+  },
+  {
+    "id": "BIOMD0000000525",
+    "name": "Kallenberger2014 - CD95L induced apoptosis initiated by caspase-8, CD95 HeLa cells (cis/trans-cis/trans variant)"
+  },
+  {
+    "id": "BIOMD0000000526",
+    "name": "Kallenberger2014 - CD95L induced apoptosis initiated by caspase-8, wild-type HeLa cells (cis/trans-cis/trans variant)"
+  },
+  {
+    "id": "BIOMD0000000528",
+    "name": "Fribourg2014 - Dynamics of viral antagonism and innate immune response (H1N1 influenza A virus - Cal/09)"
+  },
+  {
+    "id": "BIOMD0000000529",
+    "name": "Fribourg2014 - Dynamics of viral antagonism and innate immune response (H1N1 influenza A virus - NC/99)"
+  },
+  {
+    "id": "BIOMD0000000530",
+    "name": "Schmitz2014 - RNA triplex formation"
+  },
+  {
+    "id": "BIOMD0000000534",
+    "name": "Dwivedi2014 - Healthy Volunteer IL6 Model"
+  },
+  {
+    "id": "BIOMD0000000535",
+    "name": "Dwivedi2014 - Crohns IL6 Disease model - Anti-IL6 Antibody"
+  },
+  {
+    "id": "BIOMD0000000536",
+    "name": "Dwivedi2014 - Crohns IL6 Disease model - sgp130 activity"
+  },
+  {
+    "id": "BIOMD0000000537",
+    "name": "Dwivedi2014 - Crohns IL6 Disease model - Anti-IL6R Antibody"
+  },
+  {
+    "id": "BIOMD0000000539",
+    "name": "Fran\uff83\uff67ois2005 - Mixed Feedback Loop (two-gene network)"
+  },
+  {
+    "id": "BIOMD0000000540",
+    "name": "Yugi2014 - Insulin induced signalling (PFKL phosphorylation) - model 1"
+  },
+  {
+    "id": "BIOMD0000000541",
+    "name": "Yugi2014 - Insulin induced signalling (PFKL phosphorylation) - model 2"
+  },
+  {
+    "id": "BIOMD0000000542",
+    "name": "Yuraszeck2010 - Vulnerabilities in the Tau Network in Tau Pathophysiology"
+  },
+  {
+    "id": "BIOMD0000000543",
+    "name": "Qi2013 - IL-6 and IFN crosstalk model (non-competitive)"
+  },
+  {
+    "id": "BIOMD0000000544",
+    "name": "Qi2013 - IL-6 and IFN crosstalk model"
+  },
+  {
+    "id": "BIOMD0000000545",
+    "name": "Ouyang2014 - photomorphogenic UV-B signalling network"
+  },
+  {
+    "id": "BIOMD0000000546",
+    "name": "Miao2010 - Innate and adaptive immune responses to primary Influenza A Virus infection_1_1"
+  },
+  {
+    "id": "BIOMD0000000547",
+    "name": "Talemi2014 - Arsenic toxicity and detoxification mechanisms in yeast"
+  },
+  {
+    "id": "BIOMD0000000552",
+    "name": "Ehrenstein2000 - Positive-Feedback model for the loss of acetylcholine in Alzheimer's disease"
+  },
+  {
+    "id": "BIOMD0000000553",
+    "name": "Ehrenstein1997 - The choline-leakage hypothesis in Alzheimer's disease"
+  },
+  {
+    "id": "BIOMD0000000556",
+    "name": "Ortega2013 - Interplay between secretases determines biphasic amyloid-beta level"
+  },
+  {
+    "id": "BIOMD0000000557",
+    "name": "Reiterer2013 - pseudophosphatase STYX role in ERK signalling"
+  },
+  {
+    "id": "BIOMD0000000558",
+    "name": "Cloutier2012 - Feedback motif for Parkinson's disease"
+  },
+  {
+    "id": "BIOMD0000000559",
+    "name": "Ouzounoglou2014 - Modeling of alpha-synuclein effects on neuronal homeostasis"
+  },
+  {
+    "id": "BIOMD0000000560",
+    "name": "Hui2016 - Age-related changes in articular cartilage"
+  },
+  {
+    "id": "BIOMD0000000563",
+    "name": "Pritchard2014 - plant-microbe interaction"
+  },
+  {
+    "id": "BIOMD0000000564",
+    "name": "Gould2013 - Temperature Sensitive Circadian Clock"
+  },
+  {
+    "id": "BIOMD0000000565",
+    "name": "Machado2014 - Curcumin production pathway in Escherichia coli"
+  },
+  {
+    "id": "BIOMD0000000566",
+    "name": "Morris2009 - \uff8e\uff71-Synuclein aggregation variable temperature and pH"
+  },
+  {
+    "id": "BIOMD0000000567",
+    "name": "Morris2008 - Fitting protein aggregation data via F-W 2-step mechanism"
+  },
+  {
+    "id": "BIOMD0000000568",
+    "name": "Mueller2015 - Hepatocyte proliferation, T160 phosphorylation of CDK2"
+  },
+  {
+    "id": "BIOMD0000000569",
+    "name": "Dutta-Roy2015 - Opening of the multiple AMPA receptor conductance states"
+  },
+  {
+    "id": "BIOMD0000000570",
+    "name": "Aubert2002 - Coupling between Brain electrical activity, Metabolism and Hemodynamics"
+  },
+  {
+    "id": "BIOMD0000000571",
+    "name": "Nishio2008 - Design of the phosphotransferase system for enhanced glucose uptake in E. coli."
+  },
+  {
+    "id": "BIOMD0000000572",
+    "name": "Costa2014 - Computational Model of L. lactis Metabolism"
+  },
+  {
+    "id": "BIOMD0000000573",
+    "name": "Aguilera 2014 - HIV latency. Interaction between HIV proteins and immune response"
+  },
+  {
+    "id": "BIOMD0000000574",
+    "name": "Lai2014 - Hemiconcerted MWC model of intact calmodulin with two targets"
+  },
+  {
+    "id": "BIOMD0000000575",
+    "name": "Sass2009 - Approach to an \uff8e\uff71-synuclein-based BST model of Parkinson's disease"
+  },
+  {
+    "id": "BIOMD0000000576",
+    "name": "Kolodkin2013 - Nuclear receptor-mediated cortisol signalling network"
+  },
+  {
+    "id": "BIOMD0000000577",
+    "name": "Zhou2015 - Circadian clock with immune regulator NPR1"
+  },
+  {
+    "id": "BIOMD0000000578",
+    "name": "Invergo2014 - Phototransduction cascade in mouse rod cells"
+  },
+  {
+    "id": "BIOMD0000000579",
+    "name": "Sengupta2015 - Knowledge base model of human energy pool network (HEPNet)"
+  },
+  {
+    "id": "BIOMD0000000580",
+    "name": "Sonntag2012 - mTOR model - IRS dependent regulation of AMPK by insulin"
+  },
+  {
+    "id": "BIOMD0000000581",
+    "name": "DallePezze2012 - TSC-independent mTORC2 regulation"
+  },
+  {
+    "id": "BIOMD0000000582",
+    "name": "DallePezze2014 -  Cellular senescene-induced mitochondrial dysfunction"
+  },
+  {
+    "id": "BIOMD0000000583",
+    "name": "Leber2015 - Mucosal immunity and gut microbiome interaction during C. difficile infection"
+  },
+  {
+    "id": "BIOMD0000000584",
+    "name": "Mandlik2015 - Tristable genetic circuit of Leishmania"
+  },
+  {
+    "id": "BIOMD0000000586",
+    "name": "Karapetyan2016 - Genetic oscillatory network - Activator Titration Circuit (ATC)"
+  },
+  {
+    "id": "BIOMD0000000587",
+    "name": "Karapetyan2016 - Genetic oscillatory network - Repressor Titration Circuit (RTC)"
+  },
+  {
+    "id": "BIOMD0000000588",
+    "name": "Benson2013 - Identification of key drug targets in nerve growth factor pathway"
+  },
+  {
+    "id": "BIOMD0000000590",
+    "name": "Hermansen2015 - denovo biosynthesis of pyrimidines in yeast"
+  },
+  {
+    "id": "BIOMD0000000591",
+    "name": "Boehm2014 - isoform-specific dimerization of pSTAT5A and pSTAT5B"
+  },
+  {
+    "id": "BIOMD0000000594",
+    "name": "Capuani2015 - Binding of Cbl and Gbr2 to EGFR (Multisite Phosphorylation Model - MPM)"
+  },
+  {
+    "id": "BIOMD0000000595",
+    "name": "Capuani2015 - Binding of Cbl and Grb2 to EGFR (Early Activation Model - EAM)"
+  },
+  {
+    "id": "BIOMD0000000596",
+    "name": "Philipson2015 - Innate immune response modulated by NLRX1"
+  },
+  {
+    "id": "BIOMD0000000597",
+    "name": "Flis2015 - Plant clock gene circuit (P2011.1.2 PLM_71 ver 1)"
+  },
+  {
+    "id": "BIOMD0000000598",
+    "name": "Flis2015 - Plant clock gene circuit (P2011.2.1 PLM_71 ver 2)"
+  },
+  {
+    "id": "BIOMD0000000599",
+    "name": "Coggins2014 - CXCL12 dependent recruitment of beta arrestin"
+  },
+  {
+    "id": "BIOMD0000000600",
+    "name": "Celli\uff83\uff68re2011 - Plasticity of TGF-\uff8e\uff72 Signalling"
+  },
+  {
+    "id": "BIOMD0000000601",
+    "name": "Rosas2015 - Caffeine-induced luminal SR calcium changes"
+  },
+  {
+    "id": "BIOMD0000000602",
+    "name": "Stavrum2013 - Tryptophan Metabolism in Liver"
+  },
+  {
+    "id": "BIOMD0000000603",
+    "name": "PetelenzKuehn_osmoadaptation_WT"
+  },
+  {
+    "id": "BIOMD0000000604",
+    "name": "PetelenzKuehn_osmoadaptation_pfk2627D"
+  },
+  {
+    "id": "BIOMD0000000605",
+    "name": "PetelenzKuehn_osmoadaptation_HOG1att"
+  },
+  {
+    "id": "BIOMD0000000606",
+    "name": "PetelenzKuehn_osmoadaptation_hog1D"
+  },
+  {
+    "id": "BIOMD0000000607",
+    "name": "PetelenzKuehn_osmoadaptation_fps1D1"
+  },
+  {
+    "id": "BIOMD0000000608",
+    "name": "Palsson2013 - Fully-integrated immune response model (FIRM)"
+  },
+  {
+    "id": "BIOMD0000000609",
+    "name": "Reddyhoff2015 - Acetaminophen metabolism and toxicity"
+  },
+  {
+    "id": "BIOMD0000000610",
+    "name": "PetelenzKuehn_osmoadaptation_gpd1D"
+  },
+  {
+    "id": "BIOMD0000000611",
+    "name": "Nayak2015 - Blood Coagulation Network - Predicting the Effects of Various Therapies on Biomarkers"
+  },
+  {
+    "id": "BIOMD0000000612",
+    "name": "Proctor2016 - Circadian rhythm of PTH and the dynamics of signaling molecules on bone remodeling"
+  },
+  {
+    "id": "BIOMD0000000613",
+    "name": "Peterson2010 - Integrated calcium homeostasis and bone remodelling"
+  },
+  {
+    "id": "BIOMD0000000614",
+    "name": "Kamihira2000 - calcitonin fibrillation kinetics"
+  },
+  {
+    "id": "BIOMD0000000615",
+    "name": "Kuznetsov2016(II) - \uff8e\uff71-syn aggregation kinetics in Parkinson's Disease"
+  },
+  {
+    "id": "BIOMD0000000616",
+    "name": "Dunster2014 - WBC Interactions (Model1)"
+  },
+  {
+    "id": "BIOMD0000000617",
+    "name": "Walsh2014 - Inhibition kinetics of DAPT on APP Cleavage"
+  },
+  {
+    "id": "BIOMD0000000619",
+    "name": "Sluka2016  - Acetaminophen PBPK"
+  },
+  {
+    "id": "BIOMD0000000620",
+    "name": "Palmer2014 - Effect of IL-1\uff8e\uff72-Blocking therapies in T2DM - Disease Condition"
+  },
+  {
+    "id": "BIOMD0000000621",
+    "name": "Palmer2014 - Effect of IL-1\uff8e\uff72-Blocking therapies in T2DM - Healthy Condition"
+  },
+  {
+    "id": "BIOMD0000000622",
+    "name": "NguyenLK2011 - Ubiquitination dynamics in Ring1B/Bmi1 system"
+  },
+  {
+    "id": "BIOMD0000000623",
+    "name": "Orton2009 - Modelling cancerous mutations in the EGFR/ERK pathway - EGF Model"
+  },
+  {
+    "id": "BIOMD0000000624",
+    "name": "Sluka2016 - Acetaminophen metabolism"
+  },
+  {
+    "id": "BIOMD0000000625",
+    "name": "Leber2016 - Expanded model of Tfh-Tfr differentiation - Helicobacter pylori infection"
+  },
+  {
+    "id": "BIOMD0000000626",
+    "name": "Ray2013 - Meiotic initiation in S. cerevisiae"
+  },
+  {
+    "id": "BIOMD0000000627",
+    "name": "Winter2017 - Brain Energy Metabolism with PPP"
+  },
+  {
+    "id": "BIOMD0000000628",
+    "name": "Li2012 Calcium mediated synaptic plasticity"
+  },
+  {
+    "id": "BIOMD0000000629",
+    "name": "Haffez2017 - RAR interaction with synthetic analogues"
+  },
+  {
+    "id": "BIOMD0000000630",
+    "name": "Venkatraman2011 - PLS-UPA behaviour in the presence of substrate competition_1_1_1_1"
+  },
+  {
+    "id": "BIOMD0000000631",
+    "name": "DeCaluwe2016 - Circadian Clock"
+  },
+  {
+    "id": "BIOMD0000000632",
+    "name": "Kollarovic2016 - Cell fate decision at G1-S transition"
+  },
+  {
+    "id": "BIOMD0000000633",
+    "name": "Bulik2016 - Regulation of hepatic glucose metabolism"
+  },
+  {
+    "id": "BIOMD0000000634",
+    "name": "Proctor2013 - Effect of A\uff8e\uff72 immunisation in Alzheimer's disease (stochastic version)"
+  },
+  {
+    "id": "BIOMD0000000635",
+    "name": "Nair2015 - Interaction between neuromodulators via GPCRs - Effect on cAMP/PKA signaling (D1 Neuron)"
+  },
+  {
+    "id": "BIOMD0000000636",
+    "name": "Nair2015 - Interaction between neuromodulators via GPCRs - Effect on cAMP/PKA signaling (D2 Neuron)"
+  },
+  {
+    "id": "BIOMD0000000637",
+    "name": "Bush2016 - Simplified Carrousel model of GPCR"
+  },
+  {
+    "id": "BIOMD0000000638",
+    "name": "Bush2016 - Extended Carrousel model of GPCR-RGS"
+  },
+  {
+    "id": "BIOMD0000000639",
+    "name": "Thiaville2016 - Wild type folate pathway model with proposed PanB reaction"
+  },
+  {
+    "id": "BIOMD0000000640",
+    "name": "DallePezze2016 - Activation of AMPK and mTOR by amino acids"
+  },
+  {
+    "id": "BIOMD0000000646",
+    "name": "Barr2016 - All-or-nothing G1/S transition"
+  },
+  {
+    "id": "BIOMD0000000647",
+    "name": "Kwang2003 - The influence of RKIP on the ERK signaling pathway"
+  },
+  {
+    "id": "BIOMD0000000648",
+    "name": "Padala2017- ERK, PI3K/Akt and Wnt signalling network (normal)"
+  },
+  {
+    "id": "BIOMD0000000651",
+    "name": "Nguyen2016 - Feedback regulation in cell signalling: Lessons for cancer therapeutics"
+  },
+  {
+    "id": "BIOMD0000000652",
+    "name": "Padala2017- ERK, PI3K/Akt and Wnt signalling network (PI3K mutated)"
+  },
+  {
+    "id": "BIOMD0000000653",
+    "name": "Padala2017- ERK, PI3K/Akt and Wnt signalling network (bRaf mutated)"
+  },
+  {
+    "id": "BIOMD0000000654",
+    "name": "Padala2017- ERK, PI3K/Akt and Wnt signalling network (Ras mutated)"
+  },
+  {
+    "id": "BIOMD0000000655",
+    "name": "Padala2017- ERK, PI3K/Akt and Wnt signalling network (PTEN mutation)"
+  },
+  {
+    "id": "BIOMD0000000656",
+    "name": "Padala2017- ERK, PI3K/Akt and Wnt signalling network (EGFR overexpression)"
+  },
+  {
+    "id": "BIOMD0000000657",
+    "name": "Araujo2016 - Positive feedback in Cdk1 signalling keeps mitotic duration short and constant"
+  },
+  {
+    "id": "BIOMD0000000658",
+    "name": "Lee2003 - Roles of APC and Axin in Wnt Pathway (without regulatory loop)"
+  },
+  {
+    "id": "BIOMD0000000660",
+    "name": "Barr2017 - Dynamics of p21 in hTert-RPE1 cells"
+  },
+  {
+    "id": "BIOMD0000000661",
+    "name": "Webb2002 - Fas/FasL mediated tumor T-cell interaction"
+  },
+  {
+    "id": "BIOMD0000000662",
+    "name": "Moore2004 - Chronic Myeloid Leukemic cells and T-lymphocyte interaction"
+  },
+  {
+    "id": "BIOMD0000000663",
+    "name": "Wodarz2007 - HIV/CD4 T-cell interaction"
+  },
+  {
+    "id": "BIOMD0000000664",
+    "name": "Muller2008 - Simplified MAPK activation Dynamics (Model B)"
+  },
+  {
+    "id": "BIOMD0000000665",
+    "name": "Fallon2000 - Interleukin-2 dynamics"
+  },
+  {
+    "id": "BIOMD0000000666",
+    "name": "Pappalardo2016 - PI3K/AKT and MAPK Signaling Pathways in Melanoma Cancer"
+  },
+  {
+    "id": "BIOMD0000000667",
+    "name": "Hornberg2005 - MAPKsignalling"
+  },
+  {
+    "id": "BIOMD0000000668",
+    "name": "Zhu2015 - Combined gemcitabine and birinapant in pancreatic cancer cells - basic PD model"
+  },
+  {
+    "id": "BIOMD0000000674",
+    "name": "Reyes-Palomares2012 - a combined model hepatic polyamine and sulfur aminoacid metabolism - version1"
+  },
+  {
+    "id": "BIOMD0000000676",
+    "name": "Chen2006 - Nitric Oxide Release from Endothelial Cells"
+  },
+  {
+    "id": "BIOMD0000000678",
+    "name": "Tomida2003 - Calcium Oscillatory-induced translocation of nuclear factor of activated T cells"
+  },
+  {
+    "id": "BIOMD0000000679",
+    "name": "Waugh2006 - Diabetic Wound Healing - Macrophage Dynamics"
+  },
+  {
+    "id": "BIOMD0000000683",
+    "name": "Wodarz1999 CTL memory response HIV"
+  },
+  {
+    "id": "BIOMD0000000687",
+    "name": "Wodarz2007 - Cytomegalovirus infection model with cytotoxic T lymphocyte response"
+  },
+  {
+    "id": "BIOMD0000000688",
+    "name": "Wodarz2007 - Cytomegalovirus infection model with cytotoxic T lymphocyte and natural killer cell response"
+  },
+  {
+    "id": "BIOMD0000000689",
+    "name": "Thiaville2016 - Folate pathway model (PanB overexpression)"
+  },
+  {
+    "id": "BIOMD0000000690",
+    "name": "Thiaville2016 - Folate pathway model (PanB overexpression and THF regulation)"
+  },
+  {
+    "id": "BIOMD0000000691",
+    "name": "Wolf2000 - Cellular interaction on glycolytic oscillations in yeast"
+  },
+  {
+    "id": "BIOMD0000000692",
+    "name": "Phillips2003 - The Mechanism of Ras GTPase Activation by Neurofibromin"
+  },
+  {
+    "id": "BIOMD0000000695",
+    "name": "FelixGarza2017 - Blue Light Treatment of Psoriasis (simplified)"
+  },
+  {
+    "id": "BIOMD0000000696",
+    "name": "Boada2016 - Incoherent type 1 feed-forward loop (I1-FFL)"
+  },
+  {
+    "id": "BIOMD0000000697",
+    "name": "Ciliberto2003 - CyclinE / Cdk2 timer in the cell cycle of Xenopus laevis embryo"
+  },
+  {
+    "id": "BIOMD0000000698",
+    "name": "Reed2004 - Methionine Cycle"
+  },
+  {
+    "id": "BIOMD0000000699",
+    "name": "Caydasi2012 - Regulation of Tem1 by the GAP complex in spindle position cell cycle checkpoint - Ubiquitous association model"
+  },
+  {
+    "id": "BIOMD0000000700",
+    "name": "Heldt2018 - Proliferation-quiescence decision in response to DNA damage"
+  },
+  {
+    "id": "BIOMD0000000701",
+    "name": "Caydasi2012 - Inhibition of Tem1 by the GAP complex in Spindle Position Checkpoint"
+  },
+  {
+    "id": "BIOMD0000000702",
+    "name": "Caydasi2012 - Regulation of Tem1 by the GAP complex in Spindle Position Checkpoint - Ubiquitous inactive model"
+  },
+  {
+    "id": "BIOMD0000000703",
+    "name": "Diedrichs2018 - A data-entrained computational model for testing the regulatory logic of the vertebrate unfolded protein response"
+  },
+  {
+    "id": "BIOMD0000000704",
+    "name": "Aguda1999 - G2 DNA damage checkpoint"
+  },
+  {
+    "id": "BIOMD0000000705",
+    "name": "Smith2010 - Response of FOXO Transcription Factors to Post-Translational Modifications Made by Ageing-Related Signalling Pathways"
+  },
+  {
+    "id": "BIOMD0000000706",
+    "name": "Smith2010 - Response of FOXO Transcription Factors to Post-Translational Modifications (with acetylation pathway)"
+  },
+  {
+    "id": "BIOMD0000000707",
+    "name": "Revilla2003 - Controlling HIV infection using recombinant viruses"
+  },
+  {
+    "id": "BIOMD0000000712",
+    "name": "Manchanda2014 - Effect on Immune System by 4 different Influenza A virus strains"
+  },
+  {
+    "id": "BIOMD0000000713",
+    "name": "Aston2018 - Dynamics of Hepatitis C Infection"
+  },
+  {
+    "id": "BIOMD0000000714",
+    "name": "Reynolds2006 - Reduced model of the acute inflammatory response"
+  },
+  {
+    "id": "BIOMD0000000718",
+    "name": "Li2008 - Caulobacter Cell Cycle"
+  },
+  {
+    "id": "BIOMD0000000719",
+    "name": "Tsai2014 - Cell cycle duration control by oscillatory Dynamics  in Early Xenopus laevis Embryos"
+  },
+  {
+    "id": "BIOMD0000000720",
+    "name": "Yan2012 - Rb-E2F pathway dynamics with miR449"
+  },
+  {
+    "id": "BIOMD0000000721",
+    "name": "Graham2013 - Role of osteocytes in targeted bone remodeling"
+  },
+  {
+    "id": "BIOMD0000000723",
+    "name": "Weis2014 - Data driven Mammalian Cell Cycle Model"
+  },
+  {
+    "id": "BIOMD0000000724",
+    "name": "Theinmozhi2018 - Mechanism of PD1 inhibiting TCR signaling in Tumor immune regulation"
+  },
+  {
+    "id": "BIOMD0000000725",
+    "name": "Salcedo-Sora2016 - Microbial folate biosynthesis and utilisation"
+  },
+  {
+    "id": "BIOMD0000000726",
+    "name": "Ruan2017 - Transmission dynamics and control of rabies in China"
+  },
+  {
+    "id": "BIOMD0000000727",
+    "name": "Li2009- Assymetric Caulobacter cell cycle"
+  },
+  {
+    "id": "BIOMD0000000728",
+    "name": "Norel1990 - MPF and Cyclin Oscillations"
+  },
+  {
+    "id": "BIOMD0000000729",
+    "name": "Goldbeter1996 - Cyclin Cdc2 kinase Oscillations"
+  },
+  {
+    "id": "BIOMD0000000730",
+    "name": "Gerard2009 - An Integrated Mammalian Cell Cycle Model"
+  },
+  {
+    "id": "BIOMD0000000731",
+    "name": "Robertson-Tessi M 2012 A model of tumor Immune interaction"
+  },
+  {
+    "id": "BIOMD0000000732",
+    "name": "Kirschner1998_Immunotherapy_Tumour"
+  },
+  {
+    "id": "BIOMD0000000733",
+    "name": "Moore_2004_Mathematical model for CML and T cell interaction"
+  },
+  {
+    "id": "BIOMD0000000734",
+    "name": "Mouse Iron Distribution - Rich and Deficient iron diets (tracer)"
+  },
+  {
+    "id": "BIOMD0000000735",
+    "name": "Mouse Iron Distribution - Adequate iron diet (tracer)"
+  },
+  {
+    "id": "BIOMD0000000736",
+    "name": "Mouse Iron Distribution - Adequate iron diet (No Tracer)"
+  },
+  {
+    "id": "BIOMD0000000737",
+    "name": "Mouse Iron Distribution - Deficient iron diet (No Tracer)"
+  },
+  {
+    "id": "BIOMD0000000738",
+    "name": "Mouse Iron Distribution - Rich iron diet (No Tracer)"
+  },
+  {
+    "id": "BIOMD0000000739",
+    "name": "Bravo2012 - Modelling blood coagulation factor Va inactivation by APC"
+  },
+  {
+    "id": "BIOMD0000000741",
+    "name": "Eftimie2018 - Cancer and Immune biomarkers"
+  },
+  {
+    "id": "BIOMD0000000742",
+    "name": "Garcia2018basic - cancer and immune cell count basic model"
+  },
+  {
+    "id": "BIOMD0000000743",
+    "name": "Gallaher2018 - Tumor\u7ab6\u7684mmune dynamics in multiple myeloma"
+  },
+  {
+    "id": "BIOMD0000000744",
+    "name": "Hu2019 - Pancreatic cancer dynamics"
+  },
+  {
+    "id": "BIOMD0000000745",
+    "name": "Jarrett2018 - trastuzumab-induced immune response in murine HER2+ breast cancer model"
+  },
+  {
+    "id": "BIOMD0000000746",
+    "name": "Saad2017 - immune checkpoint and BCG in superficial bladder cancer"
+  },
+  {
+    "id": "BIOMD0000000747",
+    "name": "Nagashima2002 - Simulating blood coagulation inhibitory effects"
+  },
+  {
+    "id": "BIOMD0000000748",
+    "name": "Phan2017 - innate immune in oncolytic virotherapy"
+  },
+  {
+    "id": "BIOMD0000000749",
+    "name": "Reppas2015 - tumor control via alternating immunostimulating and immunosuppressive phases"
+  },
+  {
+    "id": "BIOMD0000000750",
+    "name": "Lolas2016 - tumour-induced neoneurogenesis and perineural tumour growth"
+  },
+  {
+    "id": "BIOMD0000000751",
+    "name": "Wilkie2013b - immune-induced cancer dormancy and immune evasion-basic"
+  },
+  {
+    "id": "BIOMD0000000752",
+    "name": "Wilkie2013r - immune-induced cancer dormancy and immune evasion-resistance"
+  },
+  {
+    "id": "BIOMD0000000753",
+    "name": "Figueredo2013/1 - immunointeraction base model"
+  },
+  {
+    "id": "BIOMD0000000754",
+    "name": "Figueredo2013/2 - immunointeraction model with IL2"
+  },
+  {
+    "id": "BIOMD0000000755",
+    "name": "Hansen2019 - Nine species reduced model of blood coagulation"
+  },
+  {
+    "id": "BIOMD0000000756",
+    "name": "Figueredo2013/3 - immunointeraction full model"
+  },
+  {
+    "id": "BIOMD0000000757",
+    "name": "Abernathy2016 - glioblastoma treatment"
+  },
+  {
+    "id": "BIOMD0000000758",
+    "name": "Babbs2012 - immunotherapy"
+  },
+  {
+    "id": "BIOMD0000000759",
+    "name": "den Breems2015 - macrophage in cancer"
+  },
+  {
+    "id": "BIOMD0000000760",
+    "name": "Feizabadi2011/1 - immunodeficiency in cancer core model"
+  },
+  {
+    "id": "BIOMD0000000762",
+    "name": "Kuznetsov1994 - Nonlinear dynamics of immunogenic tumors"
+  },
+  {
+    "id": "BIOMD0000000763",
+    "name": "Dritschel2018 - A mathematical model of cytotoxic and helper T cell interactions in a tumour microenvironment"
+  },
+  {
+    "id": "BIOMD0000000764",
+    "name": "Malinzi2019 - chemovirotherapy"
+  },
+  {
+    "id": "BIOMD0000000765",
+    "name": "Mager2005 - Quasi-equilibrium pharmacokinetic model for drugs exhibiting target-mediated drug disposition"
+  },
+  {
+    "id": "BIOMD0000000766",
+    "name": "Macnamara2015/1 - virotherapy full model"
+  },
+  {
+    "id": "BIOMD0000000767",
+    "name": "Macnamara2015/2 - virotherapy virus-free submodel"
+  },
+  {
+    "id": "BIOMD0000000768",
+    "name": "Eftimie2010 - immunity to melanoma"
+  },
+  {
+    "id": "BIOMD0000000769",
+    "name": "Eftimie2017/2 - interaction of Th and macrophage in melanoma"
+  },
+  {
+    "id": "BIOMD0000000770",
+    "name": "Eftimie2017/1 - interaction of Th and macrophage"
+  },
+  {
+    "id": "BIOMD0000000771",
+    "name": "Bajzer2008 - Modeling of cancer virotherapy with recombinant measles viruses"
+  },
+  {
+    "id": "BIOMD0000000772",
+    "name": "Wang2019 - A mathematical model of oncolytic virotherapy with time delay"
+  },
+  {
+    "id": "BIOMD0000000773",
+    "name": "Wodarz2018/2 - model with transit amplifying cells"
+  },
+  {
+    "id": "BIOMD0000000774",
+    "name": "Wodarz2018/1 - simple model"
+  },
+  {
+    "id": "BIOMD0000000775",
+    "name": "Iarosz2015 - brain tumor"
+  },
+  {
+    "id": "BIOMD0000000776",
+    "name": "Monro2008 - chemotherapy resistance"
+  },
+  {
+    "id": "BIOMD0000000777",
+    "name": "Chakrabarty2010 - A control theory approach to cancer remission aided by an optimal therapy"
+  },
+  {
+    "id": "BIOMD0000000778",
+    "name": "Wei2017 - tumor, T cell and cytokine interaction"
+  },
+  {
+    "id": "BIOMD0000000779",
+    "name": "dePillis2009 - Mathematical model creation for cancer chemo-immunotherapy"
+  },
+  {
+    "id": "BIOMD0000000780",
+    "name": "Wang2016/1 - oncolytic efficacy of M1 virus-SNTM model"
+  },
+  {
+    "id": "BIOMD0000000781",
+    "name": "Wang2016/2 - oncolytic efficacy of M1 virus-SNT model"
+  },
+  {
+    "id": "BIOMD0000000782",
+    "name": "Wang2016/3 - oncolytic efficacy of M1 virus-SN model"
+  },
+  {
+    "id": "BIOMD0000000783",
+    "name": "Dong2014 - Mathematical modeling on helper t cells in a tumor immune system"
+  },
+  {
+    "id": "BIOMD0000000784",
+    "name": "Lopez2014 - A Validated Mathematical Model of Tumor Growth Including Tumor-Host Interaction and Cell-Mediated Immune Response"
+  },
+  {
+    "id": "BIOMD0000000785",
+    "name": "Sotolongo-Costa2003 - Behavior of tumors under nonstationary therapy"
+  },
+  {
+    "id": "BIOMD0000000786",
+    "name": "Lipniacki2004 - Mathematical model of NFKB regulatory module"
+  },
+  {
+    "id": "BIOMD0000000787",
+    "name": "Frascoli2014 - A dynamical model of tumour immunotherapy"
+  },
+  {
+    "id": "BIOMD0000000788",
+    "name": "Schropp2019 - Target-Mediated Drug Disposition Model for Bispecific Antibodies"
+  },
+  {
+    "id": "BIOMD0000000789",
+    "name": "Jenner2018 - treatment of oncolytic virus"
+  },
+  {
+    "id": "BIOMD0000000790",
+    "name": "Alvarez2019 - A nonlinear mathematical model of cell-mediated immune response for tumor phenotypic heterogeneity"
+  },
+  {
+    "id": "BIOMD0000000791",
+    "name": "Wilson2012 - tumor vaccine efficacy"
+  },
+  {
+    "id": "BIOMD0000000792",
+    "name": "Hu2019 - Modeling Pancreatic Cancer Dynamics with Immunotherapy"
+  },
+  {
+    "id": "BIOMD0000000793",
+    "name": "Chen2011/1 - bone marrow invasion absolute model"
+  },
+  {
+    "id": "BIOMD0000000794",
+    "name": "Benary2019 - Controlling NFKB dynamics by B-TrCP"
+  },
+  {
+    "id": "BIOMD0000000795",
+    "name": "Chen2011/2 - bone marrow invasion relative model"
+  },
+  {
+    "id": "BIOMD0000000796",
+    "name": "Yang2012 - cancer growth with angiogenesis"
+  },
+  {
+    "id": "BIOMD0000000797",
+    "name": "Hu2018 - Dynamics of tumor-CD4+-cytokine-host cells interactions with treatments"
+  },
+  {
+    "id": "BIOMD0000000798",
+    "name": "Sharp2019 - AML"
+  },
+  {
+    "id": "BIOMD0000000799",
+    "name": "Cucuianu2010 - A hypothetical-mathematical model of acute myeloid leukaemia pathogenesis"
+  },
+  {
+    "id": "BIOMD0000000800",
+    "name": "Precup2012 - Mathematical modeling of cell dynamics after allogeneic bone marrow transplantation"
+  },
+  {
+    "id": "BIOMD0000000801",
+    "name": "Sturrock2015 - glioma growth"
+  },
+  {
+    "id": "BIOMD0000000802",
+    "name": "Hoffman2018- ADCC against cancer"
+  },
+  {
+    "id": "BIOMD0000000803",
+    "name": "Park2019 - IL7 receptor signaling in T cells"
+  },
+  {
+    "id": "BIOMD0000000804",
+    "name": "Koenders2015 - multiple myeloma"
+  },
+  {
+    "id": "BIOMD0000000805",
+    "name": "Al-Husari2013 - pH and lactate in tumor"
+  },
+  {
+    "id": "BIOMD0000000806",
+    "name": "Eftimie2019-Macrophages Plasticity"
+  },
+  {
+    "id": "BIOMD0000000807",
+    "name": "Fassoni2019 - Oncogenesis encompassing mutations and genetic instability"
+  },
+  {
+    "id": "BIOMD0000000808",
+    "name": "Kronik2008 - Improving alloreactive CTL immunotherapy for malignant gliomas using a simulation model of their interactive dynamics"
+  },
+  {
+    "id": "BIOMD0000000811",
+    "name": "He2017 - A mathematical model of pancreatic cancer with two kinds of treatments"
+  },
+  {
+    "id": "BIOMD0000000812",
+    "name": "Galante2012 - B7-H1 and a Mathematical Model for Cytotoxic T Cell and Tumor Cell Interaction"
+  },
+  {
+    "id": "BIOMD0000000813",
+    "name": "Anderson2015 - Qualitative behavior of systems of tumor-CD4+-cytokine interactions with treatments"
+  },
+  {
+    "id": "BIOMD0000000815",
+    "name": "Chrobak2011 - A mathematical model of induced cancer-adaptive immune system competition"
+  },
+  {
+    "id": "BIOMD0000000816",
+    "name": "Gevertz2018 - Cancer Treatment with Oncolytic Viruses and Dendritic Cell injections original model"
+  },
+  {
+    "id": "BIOMD0000000817",
+    "name": "Gevertz2018 - cancer treatment with oncolytic viruses and dendritic cell injections minimal model"
+  },
+  {
+    "id": "BIOMD0000000818",
+    "name": "Lee2008 - ERK and PI3K signal integration by Myc"
+  },
+  {
+    "id": "BIOMD0000000823",
+    "name": "Varusai2018 - Dynamic modelling of the mTOR signalling network reveals complex emergent behaviours conferred by DEPTOR"
+  },
+  {
+    "id": "BIOMD0000000826",
+    "name": "Shin_2018_EGFR-PYK2-c-Met interaction network_model"
+  },
+  {
+    "id": "BIOMD0000000830",
+    "name": "GiantsosAdams2013 - Growth of glycocalyx under static conditions"
+  },
+  {
+    "id": "BIOMD0000000831",
+    "name": "Smith1980 - Hypothalamic Regulation"
+  },
+  {
+    "id": "BIOMD0000000832",
+    "name": "Shin2016 - Unveiling Hidden Dynamics of Hippo Signalling"
+  },
+  {
+    "id": "BIOMD0000000833",
+    "name": "DiCamillo2016 - Insulin signalling pathway - Rule-based model"
+  },
+  {
+    "id": "BIOMD0000000834",
+    "name": "Verma2016 - Ca(2+) Signal Propagation Along Hepatocyte Cords"
+  },
+  {
+    "id": "BIOMD0000000835",
+    "name": "Rao2014 - Fatty acid beta-oxidation (reduced model)"
+  },
+  {
+    "id": "BIOMD0000000837",
+    "name": "Hanson2016 - Toxicity Management in CAR T cell therapy for B-ALL"
+  },
+  {
+    "id": "BIOMD0000000838",
+    "name": "Tsur2019 - Response of patients with melanoma to immune checkpoint blockade"
+  },
+  {
+    "id": "BIOMD0000000839",
+    "name": "Almeida2019 - Transcription-based circadian mechanism controls the duration of molecular clock states in response to signaling inputs"
+  },
+  {
+    "id": "BIOMD0000000840",
+    "name": "Caldwell2019 - The Vicodin abuse problem"
+  },
+  {
+    "id": "BIOMD0000000841",
+    "name": "Dhawan2019 - Endogenous miRNA sponges mediate the generation of oscillatory dynamics for a non-coding RNA network"
+  },
+  {
+    "id": "BIOMD0000000842",
+    "name": "Heitzler2012 - GPCR signalling"
+  },
+  {
+    "id": "BIOMD0000000843",
+    "name": "Dudziuk2019 - Biologically sound formal model of Hsp70 heat induction"
+  },
+  {
+    "id": "BIOMD0000000844",
+    "name": "Viertel2019 - A Computational model of the mammalian external tufted cell"
+  },
+  {
+    "id": "BIOMD0000000845",
+    "name": "Gulbudak2019.1 - Heterogeneous viral strategies promote coexistence in virus-microbe systems (Lytic)"
+  },
+  {
+    "id": "BIOMD0000000846",
+    "name": "Gulbudak2019.2 - Heterogeneous viral strategies promote coexistence in virus-microbe systems (Chronic)"
+  },
+  {
+    "id": "BIOMD0000000847",
+    "name": "Adams2019 - The regulatory role of shikimate in plant phenylalanine metabolism"
+  },
+  {
+    "id": "BIOMD0000000848",
+    "name": "FatehiChenar2018 - Mathematical model of immune response to hepatitis B"
+  },
+  {
+    "id": "BIOMD0000000849",
+    "name": "Potassium balance in lactating and non-lactating dairy cows"
+  },
+  {
+    "id": "BIOMD0000000850",
+    "name": "Jenner2019 - Oncolytic virotherapy for tumours following a Gompertz growth law"
+  },
+  {
+    "id": "BIOMD0000000851",
+    "name": "Ho2019 - Mathematical models of transmission dynamics and vaccine strategies in Hong Kong during the 2017-2018 winter influenza season (Simple)"
+  },
+  {
+    "id": "BIOMD0000000852",
+    "name": "Andersen2017 - Mathematical modelling as a proof of concept for MPNs as a human inflammation model for cancer development"
+  },
+  {
+    "id": "BIOMD0000000853",
+    "name": "Smolen2018 - Paradoxical LTP maintenance with inhibition of protein synthesis and the proteasome"
+  },
+  {
+    "id": "BIOMD0000000854",
+    "name": "Gray2016 - The Akt switch model"
+  },
+  {
+    "id": "BIOMD0000000855",
+    "name": "Cooper2015 - Modeling the effects of systemic mediators on the inflammatory phase of wound healing"
+  },
+  {
+    "id": "BIOMD0000000856",
+    "name": "Budding yeast size control by titration of nuclear sites"
+  },
+  {
+    "id": "BIOMD0000000857",
+    "name": "Larbat2016.1 - Modeling the diversion of primary carbon flux into secondary metabolism under variable nitrate and light or dark conditions (Base Model)"
+  },
+  {
+    "id": "BIOMD0000000858",
+    "name": "Larbat2016.2 - Modeling the diversion of primary carbon flux into secondary metabolism under variable nitrate and light or dark conditions (Light Dark Cycles)"
+  },
+  {
+    "id": "BIOMD0000000859",
+    "name": "Larbat2016.3 - Modeling the diversion of primary carbon flux into secondary metabolism under variable nitrate and light or dark conditions (Light Dark Cycles with Minimum Starch Adaption)"
+  },
+  {
+    "id": "BIOMD0000000860",
+    "name": "Proctor2017- Role of microRNAs in osteoarthritis (Positive Feedforward Incoherent By MicroRNA)_1"
+  },
+  {
+    "id": "BIOMD0000000861",
+    "name": "Bachmann2011 - Division of labor by dual feedback regulators controls JAK2/STAT5 signaling over broad ligand range"
+  },
+  {
+    "id": "BIOMD0000000862",
+    "name": "Proctor2017- Role of microRNAs in osteoarthritis (Positive Feedback By Micro RNA)"
+  },
+  {
+    "id": "BIOMD0000000863",
+    "name": "Kosinsky2018 - Radiation and PD-(L)1 treatment combinations"
+  },
+  {
+    "id": "BIOMD0000000864",
+    "name": "Proctor2017- Role of microRNAs in osteoarthritis (Negative Feedback By MicroRNA)"
+  },
+  {
+    "id": "BIOMD0000000865",
+    "name": "Nikolaev2019 - Immunobiochemical reconstruction of influenza lung infection-melanoma skin cancer interactions"
+  },
+  {
+    "id": "BIOMD0000000866",
+    "name": "Simon2019 - NIK-dependent p100 processing into p52, Michaelis-Menten, SBML 2v4"
+  },
+  {
+    "id": "BIOMD0000000867",
+    "name": "Coulibaly2019 - Interleukin-15 Signaling in HIF-1a Regulation in Natural Killer Cells"
+  },
+  {
+    "id": "BIOMD0000000868",
+    "name": "Simon2019 - NIK-dependent p100 processing into p52, Mass Action, SBML 2v4"
+  },
+  {
+    "id": "BIOMD0000000869",
+    "name": "Simon2019 - NIK-dependent p100 processing into p52 and IkBd degradation, Michaelis-Menten, SBML 2v4"
+  },
+  {
+    "id": "BIOMD0000000870",
+    "name": "Simon2019 - NIK-dependent p100 processing into p52 and IkBd degradation, mass action, SBML 2v4"
+  },
+  {
+    "id": "BIOMD0000000871",
+    "name": "NIK-dependent p100 processing into p52 with RelB binding and IkBd degradation, mass action, SBML 2v4"
+  },
+  {
+    "id": "BIOMD0000000872",
+    "name": "Verma2016 - HIV and HPV co-infection, T-cell response"
+  },
+  {
+    "id": "BIOMD0000000873",
+    "name": "Soni2018 - IL6 induced M2 Phenotype in Leishmania major infected macrophage"
+  },
+  {
+    "id": "BIOMD0000000874",
+    "name": "Perelson1993 - HIVinfection_CD4Tcells_ModelA"
+  },
+  {
+    "id": "BIOMD0000000875",
+    "name": "Nelson2000- HIV-1 general model 1"
+  },
+  {
+    "id": "BIOMD0000000876",
+    "name": "Aavani2019 - The role of CD4 T cells in immune system activation and viral reproduction in a simple model for HIV infection"
+  },
+  {
+    "id": "BIOMD0000000877",
+    "name": "Ontah2019 - Dynamic analysis of a tumor treatment model using oncolytic virus and chemotherapy with saturated infection rate"
+  },
+  {
+    "id": "BIOMD0000000878",
+    "name": "Lenbury2001_InsulinKineticsModel_A"
+  },
+  {
+    "id": "BIOMD0000000879",
+    "name": "Rodrigues2019 - A mathematical model for chemoimmunotherapy of chronic lymphocytic leukemia"
+  },
+  {
+    "id": "BIOMD0000000880",
+    "name": "Trisilowati2018 - Optimal control of tumor-immune system interaction with treatment"
+  },
+  {
+    "id": "BIOMD0000000881",
+    "name": "Kogan2013 - A mathematical model for the immunotherapeutic control of the TH1 TH2 imbalance in melanoma"
+  },
+  {
+    "id": "BIOMD0000000882",
+    "name": "Munz2009 - Zombie SIZRC"
+  },
+  {
+    "id": "BIOMD0000000883",
+    "name": "Giani2019 - Computational modeling to predict MAP3K8 effects as mediator of resistance to vemurafenib in thyroid cancer stem cells"
+  },
+  {
+    "id": "BIOMD0000000884",
+    "name": "Cortes2019 - Optimality of the spontaneous prophage induction rate."
+  },
+  {
+    "id": "BIOMD0000000885",
+    "name": "Sumana2018 - Mathematical modeling of cancer-immune system, considering the role of antibodies."
+  },
+  {
+    "id": "BIOMD0000000886",
+    "name": "Dubey2008 - Modeling the interaction between avascular cancerous cells and acquired immune response"
+  },
+  {
+    "id": "BIOMD0000000887",
+    "name": "Lim2014 - HTLV-I infection A dynamic struggle between viral persistence and host immunity"
+  },
+  {
+    "id": "BIOMD0000000888",
+    "name": "Unni2019 - Mathematical Modeling, Analysis, and Simulation of Tumor Dynamics with Drug Interventions"
+  },
+  {
+    "id": "BIOMD0000000889",
+    "name": "Fribourg2014 - Model of influenza A virus infection dynamics of viral antagonism and innate immune response."
+  },
+  {
+    "id": "BIOMD0000000890",
+    "name": "Bhattacharya2014 - A mathematical model of the sterol regulatory element binding protein 2 cholesterol biosynthesis pathway"
+  },
+  {
+    "id": "BIOMD0000000891",
+    "name": "Khajanchi2019 - Stability Analysis of a Mathematical Model forGlioma-Immune Interaction under OptimalTherapy"
+  },
+  {
+    "id": "BIOMD0000000892",
+    "name": "Sandip2013 - Modeling the dynamics of hepatitis C virus with combined antiviral drug therapy: interferon and ribavirin."
+  },
+  {
+    "id": "BIOMD0000000893",
+    "name": "GonzalezMiranda2013 - The effect of circadian oscillations on biochemical cell signaling by NF-\uff8e\uff7aB"
+  },
+  {
+    "id": "BIOMD0000000894",
+    "name": "Bose2011 - Noise-assisted interactions of tumor and immune cells"
+  },
+  {
+    "id": "BIOMD0000000895",
+    "name": "Schokker2013 - A mathematical model representing cellular immune development and response to Salmonella of chicken intestinal tissue"
+  },
+  {
+    "id": "BIOMD0000000896",
+    "name": "Szymanska2009 - Mathematical modeling of heat shock protein synthesis in response to temperature change"
+  },
+  {
+    "id": "BIOMD0000000897",
+    "name": "Khajanchi2015 - The combined effects of optimal control in cancer remission"
+  },
+  {
+    "id": "BIOMD0000000898",
+    "name": "Jiao2018 - Feedback regulation in a stem cell model with acute myeloid leukaemia"
+  },
+  {
+    "id": "BIOMD0000000899",
+    "name": "Ota2015 - Positive regulation of Rho GTPase activity by RhoGDIs as a result of their direct interaction with GAPs (GDI integrated)"
+  },
+  {
+    "id": "BIOMD0000000900",
+    "name": "Bianca2013 - Persistence analysis in a Kolmogorov-type model for cancer-immune system competition"
+  },
+  {
+    "id": "BIOMD0000000902",
+    "name": "Wang2019 - A mathematical model of oncolytic virotherapy with time delay"
+  },
+  {
+    "id": "BIOMD0000000903",
+    "name": "Solis-perez2019 - A fractional mathematical model of breast cancer competition model"
+  },
+  {
+    "id": "BIOMD0000000904",
+    "name": "Admon2017 - Modelling tumor growth with immune response and drug using ordinary differential equations"
+  },
+  {
+    "id": "BIOMD0000000905",
+    "name": "Dubey2007 - A mathematical model for the effect of toxicant on the immune system (with toxicant effect) Model2"
+  },
+  {
+    "id": "BIOMD0000000906",
+    "name": "Dubey2007 - A mathematical model for the effect of toxicant on the immune system (without toxicant effect) Model1"
+  },
+  {
+    "id": "BIOMD0000000907",
+    "name": "HeberleRazquinNavas2019 - The PI3K and MAPK/p38 pathways control stress granuleassembly in a hierarchical manner model 3"
+  },
+  {
+    "id": "BIOMD0000000908",
+    "name": "dePillis2013 - Mathematical modeling of regulatory T cell effects on renal cell carcinoma treatment"
+  },
+  {
+    "id": "BIOMD0000000909",
+    "name": "dePillis2003 - The dynamics of an optimally controlled tumor model: A case study"
+  },
+  {
+    "id": "BIOMD0000000910",
+    "name": "Isaeva2008 - Modelling of Anti-Tumour Immune Response Immunocorrective Effect of Weak Centimetre Electromagnetic Waves"
+  },
+  {
+    "id": "BIOMD0000000911",
+    "name": "Merola2008 - An insight into tumor dormancy equilibrium via the analysis of its domain of attraction"
+  },
+  {
+    "id": "BIOMD0000000912",
+    "name": "Caravagna2010 - Tumour suppression by immune system"
+  },
+  {
+    "id": "BIOMD0000000913",
+    "name": "dePillis2008 - Optimal control of mixed immunotherapy and chemotherapy of tumors"
+  },
+  {
+    "id": "BIOMD0000000914",
+    "name": "Parra_Guillen2013 -  Mathematical model approach to describe tumour response in mice after vaccine administration_model1"
+  },
+  {
+    "id": "BIOMD0000000915",
+    "name": "Sun2018 - Instantaneous mutation rate in cancer initiation and progression"
+  },
+  {
+    "id": "BIOMD0000000916",
+    "name": "Kraan199_Kinetics of Cortisol Metabolism and Excretion."
+  },
+  {
+    "id": "BIOMD0000000917",
+    "name": "Phillips2007_AscendingArousalSystem_SleepWakeDynamics"
+  },
+  {
+    "id": "BIOMD0000000918",
+    "name": "Schwarz2018-Cdk Activity Threshold Determines Passage through the Restriction Point"
+  },
+  {
+    "id": "BIOMD0000000919",
+    "name": "Ledzewicz2013 - On optimal chemotherapy with a strongly targeted agent for a model of tumor immune system interactions with generalized logistic growth"
+  },
+  {
+    "id": "BIOMD0000000920",
+    "name": "Jarrett2015 - Modelling the interaction between immune response, bacterial dynamics and inflammatory damage"
+  },
+  {
+    "id": "BIOMD0000000921",
+    "name": "Khajanchi2017 - Uniform Persistence and Global Stability for a Brain Tumor and Immune System Interaction"
+  },
+  {
+    "id": "BIOMD0000000922",
+    "name": "Turner2015-Human/Mosquito ELP Model"
+  },
+  {
+    "id": "BIOMD0000000924",
+    "name": "Smith2011 - Three Stage Innate Immune Response to a Pneumococcal Lung Infection"
+  },
+  {
+    "id": "BIOMD0000000925",
+    "name": "Dunster2016 - Nondimensional Coagulation Model"
+  },
+  {
+    "id": "BIOMD0000000927",
+    "name": "Grigolon2018-Responses to auxin signals"
+  },
+  {
+    "id": "BIOMD0000000928",
+    "name": "Baker2017 - The role of cytokines, MMPs and fibronectin fragments osteoarthritis"
+  },
+  {
+    "id": "BIOMD0000000929",
+    "name": "Li2016 - Model for pancreatic cancer patients receiving immunotherapy"
+  },
+  {
+    "id": "BIOMD0000000930",
+    "name": "Liu2017 - chemotherapy targeted model of tumor immune system"
+  },
+  {
+    "id": "BIOMD0000000931",
+    "name": "Voliotis2019-GnRH Pulse Generation"
+  },
+  {
+    "id": "BIOMD0000000932",
+    "name": "Garde2020-Minimal model describing metabolic oscillations in Bacillus subtilis biofilms"
+  },
+  {
+    "id": "BIOMD0000000933",
+    "name": "Kosiuk2015-Geometric analysis of the Goldbeter minimal model for the embryonic cell cycle"
+  },
+  {
+    "id": "BIOMD0000000934",
+    "name": "Linke2017 - Synchronization of Cyclins' expression by the Fkh2 transcription factor in the budding yeast cell cycle"
+  },
+  {
+    "id": "BIOMD0000000935",
+    "name": "Ferrel2011 - Cdk1 and APC regulation in cell cycle in Xenopus laevis"
+  },
+  {
+    "id": "BIOMD0000000936",
+    "name": "ferrel2011 - autonomous biochemical oscillator in cell cycle in Xenopus laevis v2"
+  },
+  {
+    "id": "BIOMD0000000937",
+    "name": "Ferrel2011 - Autonomous biochemical oscillator in regulation of CDK1, Plk1, and APC in Xenopus Laevis cell cycle"
+  },
+  {
+    "id": "BIOMD0000000938",
+    "name": "Gerard2013 - Model 3 - Embryonic-type eukaryotic Cell Cycle regulation based on negative feedback between Cdk/cyclin and APC and competitive inhibition between Cdk/cyclin and securin for polyubiquitylation_1"
+  },
+  {
+    "id": "BIOMD0000000939",
+    "name": "Iwamoto2010 - Cell cycle reponse to DNA damage"
+  },
+  {
+    "id": "BIOMD0000000940",
+    "name": "Tang2019 - Pharmacology modelling of AURKB and ZAK interaction in TNBC"
+  },
+  {
+    "id": "BIOMD0000000941",
+    "name": "Gerard2010 - Progression of mammalian cell cycle by successive activation of various cyclin cdk complexes"
+  },
+  {
+    "id": "BIOMD0000000942",
+    "name": "Sible2007 - Mitotic cell cycle mecanism in Xenopus Laevis"
+  },
+  {
+    "id": "BIOMD0000000943",
+    "name": "Hat2016 - Reponse of p53 System to irradiation in cell fate decision making"
+  },
+  {
+    "id": "BIOMD0000000944",
+    "name": "Goldbeter2013-Oscillatory activity of cyclin-dependent kinases in the cell cycle"
+  },
+  {
+    "id": "BIOMD0000000948",
+    "name": "Landberg2009 - Alkylresorcinol Dose Response"
+  },
+  {
+    "id": "BIOMD0000000949",
+    "name": "Chitnis2008 - Mathematical model of malaria transmission"
+  },
+  {
+    "id": "BIOMD0000000951",
+    "name": "Mitrophanov2015 - Simulating extended Hockin Blood Coagulation Model under varied pH"
+  },
+  {
+    "id": "BIOMD0000000952",
+    "name": "Rodenfels2019 - Heat Oscillations Driven by the Embryonic Cell Cycle Reveal the Energetic Costs of Signaling"
+  },
+  {
+    "id": "BIOMD0000000953",
+    "name": "Queralt2006 - Initiation of mitotic exit by downregulation of PP2A in budding yeast"
+  },
+  {
+    "id": "BIOMD0000000954",
+    "name": "Pandey2018-reversible transition between quiescence and proliferation"
+  },
+  {
+    "id": "BIOMD0000000955",
+    "name": "Giordano2020 - SIDARTHE model of COVID-19 spread in Italy"
+  },
+  {
+    "id": "BIOMD0000000956",
+    "name": "Bertozzi2020 - SIR model of scenarios of COVID-19 spread in CA and NY"
+  },
+  {
+    "id": "BIOMD0000000957",
+    "name": "Roda2020 - SIR model of COVID-19 spread in Wuhan"
+  },
+  {
+    "id": "BIOMD0000000958",
+    "name": "Ndairou2020 - early-stage transmission dynamics of COVID-19 in Wuhan"
+  },
+  {
+    "id": "BIOMD0000000959",
+    "name": "Kok2020 - IFNalpha-induced signaling in Huh7.5 cells"
+  },
+  {
+    "id": "BIOMD0000000960",
+    "name": "Paiva2020 - SEIAHRD model of transmission dynamics of COVID-19"
+  },
+  {
+    "id": "BIOMD0000000961",
+    "name": "McDougal2017 - Metabolism in ischemic cardiomyocytes"
+  },
+  {
+    "id": "BIOMD0000000962",
+    "name": "Zhao2020 - SUQC model of COVID-19 transmission dynamics in Wuhan, Hubei, and China"
+  },
+  {
+    "id": "BIOMD0000000963",
+    "name": "Weitz2020 - SIR model of COVID-19 transmission with shielding"
+  },
+  {
+    "id": "BIOMD0000000964",
+    "name": "Mwalili2020 - SEIR model of COVID-19 transmission and environmental pathogen prevalence"
+  },
+  {
+    "id": "BIOMD0000000965",
+    "name": "LeBeau1999 - IP3-dependent intracellular calcium oscillations due to agonist stimulation from Cholecytokinin"
+  },
+  {
+    "id": "BIOMD0000000966",
+    "name": "Cui2008 - in vitro transcriptional response of zinc homeostasis system in Escherichia coli"
+  },
+  {
+    "id": "BIOMD0000000967",
+    "name": "McLean1991 - Behaviour of HIV in the presence of zidovudine"
+  },
+  {
+    "id": "BIOMD0000000968",
+    "name": "Palmer2008 - Negative Feedback in IL-7 mediated Jak-Stat signaling"
+  },
+  {
+    "id": "BIOMD0000000969",
+    "name": "Cuadros2020 - SIHRD spatiotemporal model of COVID-19 transmission in Ohio"
+  },
+  {
+    "id": "BIOMD0000000970",
+    "name": "Hou2020 - SEIR model of COVID-19 transmission in Wuhan"
+  },
+  {
+    "id": "BIOMD0000000971",
+    "name": "Tang2020 - Estimation of transmission risk of COVID-19 and impact of public health interventions"
+  },
+  {
+    "id": "BIOMD0000000972",
+    "name": "Tang2020 - Estimation of transmission risk of COVID-19 and impact of public health interventions - update"
+  },
+  {
+    "id": "BIOMD0000000973",
+    "name": "Dasgupta2020 - Reduced model of receptor clusturing and aggregation"
+  },
+  {
+    "id": "BIOMD0000000974",
+    "name": "Carcione2020 - Deterministic SEIR simulation of a COVID-19 outbreak"
+  },
+  {
+    "id": "BIOMD0000000975",
+    "name": "Leloup2004 - Mammalian Circadian Rhythm models for 23.8 and 24.2 hours timeperiod"
+  },
+  {
+    "id": "BIOMD0000000976",
+    "name": "Ghanbari2020 - forecasting the second wave of COVID-19 in Iran"
+  },
+  {
+    "id": "BIOMD0000000977",
+    "name": "Sarkar2020 - SAIR model of COVID-19 transmission with quarantine measures in India"
+  },
+  {
+    "id": "BIOMD0000000978",
+    "name": "Mukandavire2020 - SEIR model of early COVID-19 transmission in South Africa"
+  },
+  {
+    "id": "BIOMD0000000979",
+    "name": "Malkov2020 - SEIRS model of COVID-19 transmission with reinfection"
+  },
+  {
+    "id": "BIOMD0000000980",
+    "name": "Malkov2020 - SEIRS model of COVID-19 transmission with time-varying R values and reinfection"
+  },
+  {
+    "id": "BIOMD0000000981",
+    "name": "Wan2020 - risk estimation and prediction of the transmission of COVID-19 in maninland China excluding Hubei province"
+  },
+  {
+    "id": "BIOMD0000000982",
+    "name": "Law2020 - SIR model of COVID-19 transmission in Malyasia with time-varying parameters"
+  },
+  {
+    "id": "BIOMD0000000983",
+    "name": "Zongo2020 - model of COVID-19 transmission dynamics under containment measures in France"
+  },
+  {
+    "id": "BIOMD0000000984",
+    "name": "Fang2020 - SEIR model of COVID-19 transmission considering government interventions in Wuhan"
+  },
+  {
+    "id": "BIOMD0000000985",
+    "name": "Gex-Fabry1984 - model of receptor-mediated endocytosis of EGF in BALB/c 3T3 cells"
+  },
+  {
+    "id": "BIOMD0000000986",
+    "name": "Aubry1995 - Multi-compartment model of fluid-phase endocytosis kinetics in Dictyostelium discoideum"
+  },
+  {
+    "id": "BIOMD0000000987",
+    "name": "Aubry1995 - Nine-compartment model of fluid-phase endocytosis kinetics in Dictyostelium discoideum"
+  },
+  {
+    "id": "BIOMD0000000988",
+    "name": "Westerhoff2020 - systems biology model of the coronavirus pandemic 2020"
+  },
+  {
+    "id": "BIOMD0000000989",
+    "name": "Strasen2018 - TGFb SMAD Signalling - Dose dependent dynamics upon TGFb stimulation"
+  },
+  {
+    "id": "BIOMD0000000990",
+    "name": "Strasen2018 - TGFb SMAD Signalling - Degradation of 25pM ligand (TGFb)"
+  },
+  {
+    "id": "BIOMD0000000991",
+    "name": "Okuonghae2020 - SEAIR model of COVID-19 transmission in Lagos, Nigeria"
+  },
+  {
+    "id": "BIOMD0000000994",
+    "name": "Strasen2018 - TGFb SMAD Signalling - Restimulation with 5pM TGFb at 3hr"
+  },
+  {
+    "id": "BIOMD0000000995",
+    "name": "Strasen2018 - TGFb SMAD Signalling - Restimulation with 5pM TGFb at 8hr"
+  },
+  {
+    "id": "BIOMD0000000996",
+    "name": "Strasen2018 - TGFb SMAD Signalling - Restimulation with 100pM TGFb at 6hr"
+  },
+  {
+    "id": "BIOMD0000000997",
+    "name": "Strasen2018 - TGFb SMAD Signalling - DRB treatment"
+  },
+  {
+    "id": "BIOMD0000000998",
+    "name": "Strasen2018 - TGFb SMAD Signalling Class 1"
+  },
+  {
+    "id": "BIOMD0000000999",
+    "name": "Strasen2018 - TGFb SMAD Signalling Class 2"
+  },
+  {
+    "id": "BIOMD0000001000",
+    "name": "Strasen2018 - TGFb SMAD Signalling Class 3"
+  },
+  {
+    "id": "BIOMD0000001001",
+    "name": "Strasen2018 - TGFb SMAD Signalling Class 4"
+  },
+  {
+    "id": "BIOMD0000001002",
+    "name": "Strasen2018 - TGFb SMAD Signalling Class 5"
+  },
+  {
+    "id": "BIOMD0000001003",
+    "name": "Strasen2018 - TGFb SMAD Signalling Class 6"
+  },
+  {
+    "id": "BIOMD0000001004",
+    "name": "Intosalmi2015 - Th17 core network model"
+  },
+  {
+    "id": "BIOMD0000001005",
+    "name": "Bae2017 - Mathematical analysis of circadian disruption and metabolic re-entrainment of hepatic gluconeogenesis"
+  },
+  {
+    "id": "BIOMD0000001006",
+    "name": "Ciliberto2005 - Steady states and oscillations in the p53/Mdm2 network"
+  },
+  {
+    "id": "BIOMD0000001007",
+    "name": "Zhang2007 - Mechanism of DNA damage response (Model1)"
+  },
+  {
+    "id": "BIOMD0000001009",
+    "name": "Zhang2007 - Mechanism of DNA damage response (Model2)"
+  },
+  {
+    "id": "BIOMD0000001010",
+    "name": "Zhang2007 - Mechanism of DNA damage response (Model3)"
+  },
+  {
+    "id": "BIOMD0000001015",
+    "name": "Jarrah2014 - mathematical model of the immune response in muscle degeneration and subsequent regeneration in Duchenne muscular dystrophy in mdx mice"
+  },
+  {
+    "id": "BIOMD0000001019",
+    "name": "Barros2021 - CARTmath, Mathematical Model of CAR-T Immunotherapy in HDLM-2 cell line"
+  },
+  {
+    "id": "BIOMD0000001020",
+    "name": "Barros2021 - CARTmath, Mathematical Model of CAR-T Immunotherapy in Raji Cell Line"
+  },
+  {
+    "id": "BIOMD0000001022",
+    "name": "Creemers2021 - Tumor-immune dynamics and implications on immunotherapy responses"
+  },
+  {
+    "id": "BIOMD0000001023",
+    "name": "Alharbi2020 - An ODE-based model of the dynamics of tumor cell progression and its effects on normal cell growth and immune system functionality"
+  },
+  {
+    "id": "BIOMD0000001026",
+    "name": "Kurlovics2021 - Metformin partitioning between plasma and RBC with independent Kin and Kout coefficients"
+  },
+  {
+    "id": "BIOMD0000001027",
+    "name": "Zake2021 - PBPK model of metformin in mice: single dose peroral"
+  },
+  {
+    "id": "BIOMD0000001028",
+    "name": "Zake2021 - PBPK model of metformin in humans, single PO dose"
+  },
+  {
+    "id": "BIOMD0000001029",
+    "name": "Zake2021 - PBPK model of metformin in humans, eight PO administrations with 12h interval"
+  },
+  {
+    "id": "BIOMD0000001030",
+    "name": "Sontag2017 - Dynamic model of immune responses to antigen presentation by tumor or pathogen"
+  },
+  {
+    "id": "BIOMD0000001033",
+    "name": "Almuallem2020 - Virus-macrophage-tumour interactions in oncolytic viral therapies"
+  },
+  {
+    "id": "BIOMD0000001034",
+    "name": "Bunimovich-Mendrazitsky2007 - Mathematical model of BCG immunotherapy"
+  },
+  {
+    "id": "BIOMD0000001036",
+    "name": "Cappuccio2007 - Tumor-immune system interactions and determination of the optimal therapeutic protocol in immunotherapy"
+  },
+  {
+    "id": "BIOMD0000001039",
+    "name": "Zake2021 - PBPK model of metformin in mice: single dose intavenous"
+  },
+  {
+    "id": "BIOMD0000001040",
+    "name": "Kurlovics2021 - Metformin partitioning from plasma to RBC,  single coefficient"
+  },
+  {
+    "id": "BIOMD0000001041",
+    "name": "Kimmel2021 - T cell competition and stochastic extinction events in CAR T cell therapy"
+  },
+  {
+    "id": "BIOMD0000001042",
+    "name": "Makhlouf2020 - No treatment model of the role of CD4 T cells in tumor-immune interactions"
+  },
+  {
+    "id": "BIOMD0000001043",
+    "name": "Wodarz2001 - Viruses as antitumor weapons"
+  },
+  {
+    "id": "BIOMD0000001044",
+    "name": "Csikasz-Nagy2006 - Mammalian Cell Cycle model"
+  },
+  {
+    "id": "BIOMD0000001047",
+    "name": "Collier1996 - Delta Notch intercellular signalling and lateral inhibition"
+  },
+  {
+    "id": "BIOMD0000001048",
+    "name": "Siddhartha2002 - Kinetic modelling of cancer therapies"
+  },
+  {
+    "id": "BIOMD0000001052",
+    "name": "Alharbi2020 - Tumor and immune system competition"
+  },
+  {
+    "id": "BIOMD0000001053",
+    "name": "Garde2020 - metabolic oscillations in Bacillus subtilis biofilms"
+  },
+  {
+    "id": "BIOMD0000001054",
+    "name": "Pearce2021 - Fibrin Polymerization"
+  },
+  {
+    "id": "BIOMD0000001056",
+    "name": "Chulian2021 - feedback signalling in B lymphopoeisis"
+  },
+  {
+    "id": "BIOMD0000001057",
+    "name": "Nikolov2020 - p53-miR34 model"
+  },
+  {
+    "id": "BIOMD0000001058",
+    "name": "Novak2022 - Mitotic kinase oscillation"
+  },
+  {
+    "id": "BIOMD0000001059",
+    "name": "Stucki2005 - caspase-3 metabolism"
+  },
+  {
+    "id": "BIOMD0000001060",
+    "name": "Frank2021 - Macrophage polarization"
+  },
+  {
+    "id": "BIOMD0000001065",
+    "name": "vonDassow2000 - Segment Polarity Network model on 1x4 grid of cells"
+  },
+  {
+    "id": "BIOMD0000001070",
+    "name": "Kong2022 - Conditional Antibody Design as 3D Equivariant Graph Translation"
+  },
+  {
+    "id": "BIOMD0000001071",
+    "name": "Wang2022 - Scaffolding protein functional sites using deep learning"
+  },
+  {
+    "id": "BIOMD0000001072",
+    "name": "Phillips2013 - physiologically based modeling explaining Mammalian rest/activity patterns"
+  },
+  {
+    "id": "BIOMD0000001078",
+    "name": "Hammaren-Geissen2022_PPToP_Model12"
+  },
+  {
+    "id": "BIOMD0000001079",
+    "name": "DeBoeck2021 - Modular approach to modeling the cell cycle, simple cell cycle model"
+  },
+  {
+    "id": "BIOMD0000001080",
+    "name": "DeBoeck2021 - Modular approach to modeling the cell cycle, 5 ODE model with 3 bistable switches"
+  },
+  {
+    "id": "BIOMD0000001099",
+    "name": "Richards2016 - Genome-scale metabolic reconstruction of Methanococcus maripaludis (iMR539)"
+  },
+  {
+    "id": "BIOMD0000001100",
+    "name": "Mohr2022 - Rabbit Purkinje Cardiac Electrophysiology"
+  },
+  {
+    "id": "BIOMD0000001101",
+    "name": "Zhou2024 - Post Infarction Myocyte Electromechanics"
+  },
+  {
+    "id": "BIOMD0000001102",
+    "name": "Burbano2023 - HGFsignaling_in_FattyLiverDisease"
+  },
+  {
+    "id": "BIOMD0000001103",
+    "name": "Palaniappan2021 - Cell free modelling of second generation Toehold switches"
+  }
+]
