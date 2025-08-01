@@ -8,7 +8,7 @@ Kentaro Inoue, ...., will be published soon..
 - __Dynamic Visualization__: Node and edge colors and sizes change over time based on their values.
 - __Edge Labels__: Display all or specific edge labels (flux equations) within the network.
 - __Node Line Plots__: View a line plot of selected node data directly next to the node.
-- __Flexible Coloring__: Colors can be determined by normalized values (0-1) for individual nodes and edges, or by relative values between nodes or edges at a given time.
+- __Switchable Assignment__: Colors can be determined by normalized values (0-1) for individual nodes and edges, or by relative values between nodes or edges at a given time.
 - __Quick Start with BioModels__: Easily visualize models from BioModels. Networks are automatically reconstructed from schemes converted by [basico](https://github.com/copasi/basico).
 - __Layout Options__: Choose from 9 layout algorithms and save custom node positions.
 - __Standalone GUI__: Use SBDyNetVis as a standalone GUI application without writing any code. See [GUI application](#Standalone-GUI-Application) for details.
@@ -16,7 +16,7 @@ Kentaro Inoue, ...., will be published soon..
 
 ## Installation
 Tested version: Python 3.11  
-Recommendation: Use a virtual environment (e.g., venv).
+Recommendation: Use a virtual environment (e.g., venv).  
 Windows:
 ```bash
 python -m venv venv
@@ -103,7 +103,9 @@ v5, s6, s6_deg, ->, k5*s6
 - xxx: Species node (round-rectangle shape).
 - xxx_mod: Modification node (rectangle shape, name not shown in network).
 - xxx_deg: Degradation node (round-triangle shape).
-- xxx_src: Source node (round-tag shape).  
+- xxx_src: Source node (round-tag shape).
+
+
 Node type is identified by its suffix.  
 
 ##### Relationship between timecourse.csv and diagram.csv
