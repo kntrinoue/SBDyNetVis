@@ -254,12 +254,13 @@ class ModelManager():
       output_columns.append(name_flux[key])
     name_parameter_var = {}
     # print(self.basico.parameters)
-    for i in range(len(self.basico.parameters.index)):
-      key = self.basico.parameters.index[i]
-      type = self.basico.parameters['type'].iloc[i]
-      if type == 'assignment' or type == 'ode':
-        name_parameter_var[key] = self.basico.parameters['display_name'].iloc[i]
-        output_columns.append(name_parameter_var[key])
+    if self.basico.parameters is not None:
+      for i in range(len(self.basico.parameters.index)):
+        key = self.basico.parameters.index[i]
+        type = self.basico.parameters['type'].iloc[i]
+        if type == 'assignment' or type == 'ode':
+          name_parameter_var[key] = self.basico.parameters['display_name'].iloc[i]
+          output_columns.append(name_parameter_var[key])
     
     # print(name_flux)
     # print(name_parameter_var)
