@@ -110,7 +110,6 @@
         plugins: {legend: {display: false}}
       }
     });
-    
     animateFill();
 
   });
