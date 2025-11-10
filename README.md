@@ -1,7 +1,7 @@
 # Dynamic Network Visualization Tool for Systems Biology Models
 
 ## Published Paper/Citation
-Kentaro Inoue, ...., will be published soon..
+Kentaro Inoue, SBDyNetVis: a visualization tool of dynamic network for systems biology model, BioSystems 258, 105644, 2025.
 
 
 ## Features
